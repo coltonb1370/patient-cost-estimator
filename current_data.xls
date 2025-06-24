@@ -1,0 +1,281 @@
+age,gender,patient_zip,hospital_name,hospital_zip,hospital_state,reason_for_visit,lab_required,imaging_required,diabetic,obese,smoker,hypertensive,asthmatic,total_charge
+28,Male,54617,Carle Foundation,50982,IL,Skin Rash,False,False,False,False,False,False,False,180
+59,Female,57147,MercyOne Des Moines,56913,IA,Surgical Consult,False,False,False,False,False,False,False,600
+66,Male,53620,Mercy Health,56788,OH,Checkup,False,True,False,False,False,True,False,282
+76,Female,53084,Parkview Regional,59913,IN,Mental Health,True,False,False,False,False,True,False,367
+57,Female,53208,Gundersen Health,57412,WI,Cough/Fever,False,True,False,False,False,True,False,437
+67,Male,50014,Genesis Medical Center,56223,IA,Mental Health,False,False,False,False,True,True,False,300
+42,Female,59091,University of Iowa Hospitals,51097,IA,Annual Physical,True,False,False,False,False,False,False,331
+49,Female,59617,Monument Health Rapid City,53836,SD,Cardiology Consult,True,True,False,False,False,False,True,959
+49,Female,51171,Hennepin Healthcare,50171,MN,Diabetes Management,False,False,False,False,False,False,False,260
+51,Female,50478,Michigan Medicine,57912,MI,Checkup,True,False,False,False,False,False,True,161
+51,Female,50058,Aurora St. Luke’s,57952,WI,Fracture Evaluation,True,False,False,False,True,False,False,426
+63,Female,52437,Parkview Regional,54524,IN,Neurology Referral,False,False,False,False,True,False,False,613
+70,Female,54061,Rush University,56397,IL,Sports Injury,False,True,False,False,True,False,False,548
+45,Female,52554,Spectrum Health,53300,MI,Cough/Fever,True,False,False,False,False,False,False,308
+30,Female,54673,Mercy Health,55805,OH,Diabetes Management,False,False,False,False,False,False,False,260
+40,Male,56085,Northwestern Memorial,52777,IL,Cardiology Consult,False,False,False,False,True,False,False,621
+60,Female,57482,Beaumont Royal Oak,52123,MI,Surgical Consult,True,False,False,False,False,False,False,731
+44,Male,54250,Mercy Health,52691,OH,Annual Physical,False,False,False,True,False,False,True,160
+34,Male,59020,Advocate Christ,50115,IL,Mental Health,True,False,False,False,True,False,False,494
+59,Male,54618,Avera McKennan,56028,SD,Prenatal Visit,True,False,False,False,False,False,False,362
+47,Female,50036,Ascension Providence,50783,MI,Checkup,True,False,False,True,False,False,False,178
+26,Male,56365,Froedtert Hospital,52136,WI,Chest Pain,True,True,False,False,False,True,False,706
+38,Male,55073,Indiana University Health,52451,IN,Cardiology Consult,True,False,False,False,False,False,False,681
+68,Female,54885,Cleveland Clinic,56229,OH,Physical Therapy,False,False,False,False,True,False,True,200
+29,Male,51919,Sanford Sioux Falls,51827,SD,Cough/Fever,True,True,True,False,False,False,True,520
+47,Female,58557,Methodist Hospital,57409,NE,Diabetes Management,False,True,False,False,False,False,True,589
+76,Female,51077,Michigan Medicine,54466,MI,Skin Rash,True,False,False,False,False,False,False,333
+56,Female,50562,Nebraska Medicine,57901,NE,Cough/Fever,True,False,False,False,False,False,False,317
+70,Male,57933,Essentia Fargo,55421,ND,Diabetes Management,False,True,False,False,False,False,False,603
+39,Female,59677,UW Health University Hospital,57999,WI,GI Complaint,False,False,False,False,True,False,False,577
+38,Male,52617,Essentia Health Duluth,59927,MN,Prenatal Visit,False,True,False,False,False,False,False,424
+49,Female,50698,Ohio State Wexner,51936,OH,Surgical Consult,True,True,False,False,False,False,False,1051
+49,Other,53620,Northwestern Memorial,50924,IL,Neurology Referral,False,True,False,False,False,False,False,836
+60,Female,51073,Rush University,57873,IL,Annual Physical,False,False,False,False,False,False,True,160
+49,Male,53148,Sanford Sioux Falls,50576,SD,Prenatal Visit,True,False,True,False,False,False,False,381
+43,Male,58197,University Hospitals,53072,OH,Neurology Referral,True,False,False,False,False,False,False,648
+35,Male,54006,Regions Hospital,57316,MN,Surgical Consult,True,False,False,False,True,False,False,854
+27,Male,53626,Mercy Health,56561,OH,Fracture Evaluation,False,True,True,False,False,False,False,608
+36,Male,52757,Ascension Providence,52894,MI,Fracture Evaluation,False,False,False,False,False,False,True,350
+50,Male,54992,Michigan Medicine,54462,MI,Physical Therapy,False,False,True,False,False,True,False,200
+63,Other,55330,Carle Foundation,55532,IL,Urinary Issue,False,True,True,True,False,False,False,382
+45,Male,50395,Franciscan Health,56734,IN,Fracture Evaluation,False,False,False,False,False,False,False,350
+63,Male,54218,Spectrum Health,59431,MI,Prenatal Visit,False,False,False,False,False,False,True,250
+54,Female,57475,UnityPoint Health,50715,IA,Prenatal Visit,False,False,False,False,False,False,False,250
+43,Male,51568,Mayo Clinic,56076,MN,Skin Rash,False,True,False,False,True,False,True,498
+23,Other,52865,Sanford Fargo,51631,ND,Sports Injury,True,False,False,False,False,False,False,399
+65,Male,50456,Rush University,58857,IL,Fracture Evaluation,False,False,False,False,False,False,False,350
+95,Female,53168,Nebraska Medicine,52700,NE,GI Complaint,False,True,False,False,False,False,True,987
+53,Male,58404,University of Iowa Hospitals,55329,IA,Physical Therapy,False,True,False,True,False,False,False,491
+15,Male,58890,Ascension Providence,54956,MI,GI Complaint,False,True,False,False,False,False,False,661
+38,Female,58890,CHI Health Creighton,58689,NE,Back Pain,True,False,False,True,False,False,False,300
+53,Male,58262,Ohio State Wexner,54542,OH,Neurology Referral,True,False,False,False,False,False,False,620
+58,Male,58419,Essentia Health Duluth,59976,MN,Ear Infection,False,False,False,False,False,False,False,130
+31,Female,50553,Rush University,56403,IL,Checkup,False,True,False,False,False,False,False,434
+56,Male,59252,Mayo Clinic,52786,MN,Cardiology Consult,True,False,True,False,False,False,False,683
+47,Female,57662,Ohio State Wexner,58558,OH,Cough/Fever,False,False,False,False,False,False,False,120
+60,Female,57287,UW Health University Hospital,58061,WI,Annual Physical,True,False,False,False,False,False,False,339
+64,Male,59056,Ascension Providence,57807,MI,Fracture Evaluation,False,True,False,False,False,True,False,592
+55,Male,53891,Parkview Regional,55343,IN,Diabetes Management,True,False,False,False,False,False,False,383
+58,Male,57067,Avera McKennan,52950,SD,Mental Health,True,False,False,False,False,False,False,357
+10,Male,57697,Froedtert Hospital,53510,WI,Neurology Referral,True,False,False,False,False,False,False,725
+32,Male,50790,Sanford Fargo,56369,ND,Follow-up Visit,False,False,False,False,False,False,False,150
+44,Female,58153,Ohio State Wexner,52476,OH,Neurology Referral,False,False,False,False,False,False,False,550
+81,Other,51604,Spectrum Health,58849,MI,Cardiology Consult,False,True,False,False,True,False,False,872
+58,Male,55776,Bryan Medical Center,57410,NE,Physical Therapy,False,True,False,False,False,False,True,447
+51,Male,50225,Ohio State Wexner,56938,OH,Cough/Fever,False,False,False,False,False,False,True,120
+57,Male,55125,Gundersen Health,54746,WI,Cardiology Consult,True,False,False,False,False,False,False,659
+61,Female,53629,Beaumont Royal Oak,55854,MI,Annual Physical,False,True,False,False,True,False,False,462
+73,Male,59908,Northwestern Memorial,59403,IL,Sports Injury,True,True,False,False,True,False,False,780
+55,Female,51604,Essentia Fargo,57058,ND,Urinary Issue,False,False,False,True,False,True,False,200
+34,Female,54832,Advocate Christ,55170,IL,Sports Injury,True,True,False,False,False,True,False,587
+23,Male,52064,CHI Health Creighton,53149,NE,Chest Pain,False,False,False,False,False,False,False,300
+69,Male,56657,Mercy Health,52929,OH,GI Complaint,False,False,False,False,False,False,False,450
+35,Female,50420,Essentia Health Duluth,50469,MN,Annual Physical,True,False,False,False,False,False,False,328
+57,Male,53526,Northwestern Memorial,57579,IL,Urinary Issue,False,True,False,True,False,False,False,455
+47,Female,53676,Ascension Providence,53428,MI,Medication Refill,True,True,False,False,False,False,False,370
+72,Female,50043,Spectrum Health,54461,MI,Fracture Evaluation,False,False,False,False,False,False,False,350
+43,Other,51301,Advocate Christ,55413,IL,Cough/Fever,False,False,False,False,False,True,True,120
+45,Female,57370,Ohio State Wexner,55178,OH,Back Pain,True,False,False,False,False,True,False,284
+47,Female,58281,Carle Foundation,57133,IL,Cough/Fever,True,True,False,False,True,True,False,639
+57,Female,58196,Bryan Medical Center,52098,NE,Fracture Evaluation,False,False,False,False,False,False,False,350
+72,Female,52664,Froedtert Hospital,52881,WI,GI Complaint,False,False,False,True,False,False,False,595
+51,Female,53339,UnityPoint Health,50369,IA,Ear Infection,True,False,True,False,False,False,False,209
+36,Male,57962,Ohio State Wexner,52856,OH,Diabetes Management,True,False,False,False,False,True,False,328
+57,Female,53449,St. Vincent Indianapolis,52385,IN,Follow-up Visit,True,False,False,False,False,False,False,233
+44,Male,52800,St. Vincent Indianapolis,56391,IN,Prenatal Visit,False,False,False,True,False,False,False,250
+59,Male,52186,Spectrum Health,58129,MI,Diabetes Management,False,False,True,False,False,False,False,260
+57,Female,51979,UnityPoint Health,58822,IA,Skin Rash,True,False,False,False,True,False,True,367
+69,Female,59693,Spectrum Health,52903,MI,Cough/Fever,False,False,True,False,False,False,False,120
+64,Female,59264,Gundersen Health,50732,WI,Prenatal Visit,False,False,False,False,True,False,False,250
+52,Female,53214,UnityPoint Health,54395,IA,Mental Health,False,True,False,False,False,True,False,577
+57,Male,58715,Mayo Clinic,58460,MN,Follow-up Visit,False,False,False,False,False,True,False,150
+30,Male,56028,Cleveland Clinic,51134,OH,Cough/Fever,False,False,False,False,False,False,False,120
+72,Male,53083,Genesis Medical Center,55242,IA,Physical Therapy,False,False,False,True,True,False,False,200
+63,Male,54116,Franciscan Health,50011,IN,Fracture Evaluation,True,False,False,False,False,False,False,462
+52,Female,57394,Indiana University Health,59641,IN,Surgical Consult,False,False,False,False,False,False,False,600
+34,Female,56559,Rush University,51758,IL,Diabetes Management,False,False,False,True,True,False,False,260
+52,Male,56207,Aurora St. Luke’s,58634,WI,Cardiology Consult,False,False,False,False,False,False,False,500
+46,Male,53460,UnityPoint Health,56872,IA,Annual Physical,False,False,False,True,True,True,False,160
+59,Other,56811,Franciscan Health,51886,IN,Ear Infection,False,True,False,False,False,False,False,467
+50,Male,52054,Beaumont Royal Oak,50020,MI,Cough/Fever,False,False,False,True,False,False,False,120
+62,Female,59122,Cleveland Clinic,59224,OH,Checkup,True,False,False,False,False,False,False,237
+56,Male,53299,Ohio State Wexner,56509,OH,Fracture Evaluation,False,False,False,False,False,False,False,350
+27,Female,54794,Michigan Medicine,51671,MI,Surgical Consult,False,False,False,False,False,True,False,738
+45,Male,56692,Essentia Health Duluth,58490,MN,Diabetes Management,False,True,True,True,False,False,True,447
+54,Male,50432,Essentia Health Duluth,54049,MN,Chest Pain,False,False,False,False,False,False,False,300
+67,Male,50994,Ohio State Wexner,56513,OH,Medication Refill,True,False,False,True,False,True,False,237
+68,Male,52258,Hennepin Healthcare,56931,MN,GI Complaint,True,False,False,False,True,False,False,673
+73,Male,55151,Hennepin Healthcare,50469,MN,Physical Therapy,False,False,False,False,False,False,False,200
+55,Female,59438,Mercy Health,56558,OH,Ear Infection,True,False,False,False,False,True,False,211
+59,Male,59746,Nebraska Medicine,51576,NE,Urinary Issue,False,False,False,False,False,False,False,200
+56,Male,54171,Gundersen Health,54188,WI,Chest Pain,False,False,False,False,False,True,False,437
+38,Female,50344,Mercy Health,50457,OH,Mental Health,True,True,True,False,False,False,False,603
+27,Female,59904,Cleveland Clinic,55554,OH,Follow-up Visit,False,True,False,False,False,False,False,526
+22,Male,54599,Carle Foundation,51299,IL,Mental Health,True,False,False,False,False,False,False,395
+43,Male,53452,Froedtert Hospital,53716,WI,Medication Refill,True,False,False,False,False,False,False,258
+29,Male,53794,Bryan Medical Center,54316,NE,Annual Physical,False,True,False,False,False,False,False,426
+42,Female,53185,Mayo Clinic,58177,MN,Medication Refill,False,True,False,False,False,True,False,401
+20,Male,52076,Froedtert Hospital,52450,WI,Fracture Evaluation,True,True,False,False,False,False,False,708
+39,Other,54697,Gundersen Health,56914,WI,Skin Rash,False,True,False,False,False,False,False,331
+43,Male,52424,Trinity Health Minot,57121,ND,Chest Pain,False,True,False,False,False,False,False,691
+52,Female,59898,Franciscan Health,55639,IN,Cardiology Consult,True,False,False,False,False,True,False,692
+45,Female,59176,St. Vincent Indianapolis,50398,IN,Physical Therapy,True,True,False,False,False,False,False,728
+71,Male,51317,Advocate Christ,50220,IL,Ear Infection,False,True,False,True,False,True,False,399
+42,Male,54309,Rush University,58938,IL,Cardiology Consult,True,False,True,False,False,False,False,743
+50,Male,55465,University Hospitals,57053,OH,Medication Refill,True,True,False,False,False,False,False,357
+38,Male,52335,Northwestern Memorial,57393,IL,Diabetes Management,False,False,False,False,False,False,False,260
+37,Female,57673,Ascension Providence,58380,MI,Cough/Fever,False,False,False,False,False,True,False,120
+52,Male,59016,Mayo Clinic,53981,MN,Physical Therapy,True,False,True,False,False,False,False,272
+43,Female,56073,Spectrum Health,57293,MI,Prenatal Visit,True,False,False,False,False,False,False,339
+29,Male,50357,UnityPoint Health,57793,IA,Surgical Consult,False,False,False,False,False,False,False,600
+35,Female,56913,Ohio State Wexner,52224,OH,Skin Rash,False,True,False,False,False,False,False,559
+48,Male,57233,Froedtert Hospital,56653,WI,GI Complaint,False,False,False,True,False,False,True,608
+39,Female,55839,Michigan Medicine,55905,MI,Urinary Issue,True,False,False,False,False,False,False,349
+30,Female,59796,Mayo Clinic,55839,MN,Ear Infection,False,False,False,False,False,False,False,130
+44,Male,59444,Regions Hospital,56514,MN,Back Pain,True,False,False,True,True,False,False,333
+44,Male,51280,Beaumont Royal Oak,50298,MI,Skin Rash,False,False,False,True,False,False,False,180
+51,Female,59633,Mercy Health,52167,OH,Surgical Consult,False,False,False,False,True,False,False,718
+54,Female,56296,Mercy Health,50397,OH,Annual Physical,False,False,False,True,False,False,True,160
+57,Female,56000,Michigan Medicine,55043,MI,Prenatal Visit,True,True,False,False,False,False,True,792
+65,Male,50484,Spectrum Health,54394,MI,Mental Health,True,False,False,False,True,False,False,459
+67,Male,56772,Nebraska Medicine,53597,NE,Physical Therapy,False,False,False,False,False,False,True,200
+53,Male,54688,UnityPoint Health,52540,IA,Fracture Evaluation,False,False,False,False,False,False,True,350
+58,Male,53361,Rush University,58108,IL,Follow-up Visit,False,False,True,False,False,False,False,150
+62,Female,50638,Bryan Medical Center,59503,NE,Chest Pain,False,False,False,False,False,False,False,300
+40,Female,58840,University Hospitals,50806,OH,Back Pain,True,False,False,False,False,False,False,387
+18,Female,59308,UW Health University Hospital,59309,WI,Cough/Fever,True,False,False,False,False,False,False,227
+45,Male,54182,Indiana University Health,55943,IN,Back Pain,True,True,False,False,False,False,False,815
+68,Female,59344,UnityPoint Health,50274,IA,Prenatal Visit,True,True,True,False,False,False,False,612
+42,Female,59769,Genesis Medical Center,54635,IA,Neurology Referral,False,True,True,False,False,False,False,939
+64,Female,58889,Mercy Health,55770,OH,Follow-up Visit,True,False,False,True,False,False,False,319
+43,Male,54936,University of Iowa Hospitals,53674,IA,Diabetes Management,True,True,False,False,False,False,False,662
+74,Female,59751,Hennepin Healthcare,59321,MN,Fracture Evaluation,False,False,True,False,False,True,False,350
+50,Male,54819,Froedtert Hospital,54496,WI,GI Complaint,False,True,False,True,False,False,False,933
+65,Male,50432,St. Vincent Indianapolis,52054,IN,Checkup,False,False,False,False,False,False,True,100
+40,Male,53263,Ohio State Wexner,58343,OH,Skin Rash,False,False,False,False,False,False,False,180
+52,Female,55761,Northwestern Memorial,59968,IL,Surgical Consult,False,False,False,False,False,False,False,600
+36,Male,57534,UnityPoint Health,53678,IA,Annual Physical,True,False,False,False,False,False,False,278
+79,Male,54463,Parkview Regional,50808,IN,Prenatal Visit,False,False,True,False,False,False,False,250
+27,Male,52061,Rush University,51857,IL,Fracture Evaluation,False,False,False,False,False,False,False,350
+72,Male,53977,University Hospitals,52448,OH,Sports Injury,True,False,False,False,False,False,True,355
+36,Female,50904,Carle Foundation,58044,IL,Skin Rash,False,False,False,False,False,False,False,180
+62,Male,57952,Advocate Christ,58455,IL,Urinary Issue,False,False,False,False,False,False,False,200
+66,Male,59036,Franciscan Health,56244,IN,Back Pain,False,False,False,False,False,True,False,220
+60,Female,51465,St. Vincent Indianapolis,59207,IN,Sports Injury,False,False,False,False,False,False,False,250
+55,Female,53023,Ohio State Wexner,54234,OH,Prenatal Visit,False,False,False,False,False,False,False,250
+36,Female,52350,Carle Foundation,50745,IL,Physical Therapy,False,False,False,False,False,False,True,200
+35,Female,51725,University Hospitals,57591,OH,Follow-up Visit,False,True,False,False,False,False,True,507
+62,Female,58366,Rush University,59655,IL,Neurology Referral,False,False,False,False,False,False,False,550
+49,Female,57511,Cleveland Clinic,55111,OH,GI Complaint,False,False,True,False,True,False,False,556
+43,Female,53124,Parkview Regional,52129,IN,Diabetes Management,False,False,True,False,True,False,False,260
+40,Male,54587,Regions Hospital,55988,MN,Prenatal Visit,False,False,False,False,False,False,False,250
+57,Female,58602,MercyOne Des Moines,51191,IA,Checkup,False,False,True,False,False,False,False,100
+29,Male,52600,Northwestern Memorial,55844,IL,Neurology Referral,False,True,True,False,False,True,False,1005
+18,Female,55716,Michigan Medicine,56489,MI,Fracture Evaluation,False,True,False,False,False,False,True,669
+65,Other,51060,Carle Foundation,56797,IL,Back Pain,True,True,False,False,False,False,False,703
+36,Male,57604,Advocate Christ,54554,IL,Fracture Evaluation,False,True,False,False,False,False,False,635
+43,Other,58216,Franciscan Health,59028,IN,Fracture Evaluation,True,False,False,False,True,False,False,425
+57,Male,52912,Yankton Medical Clinic,54994,SD,Prenatal Visit,False,False,False,False,False,False,False,250
+47,Male,54733,Froedtert Hospital,53242,WI,Ear Infection,False,False,True,False,False,False,True,130
+39,Male,51432,Hennepin Healthcare,52810,MN,Mental Health,False,False,False,True,False,False,True,300
+59,Male,57184,Michigan Medicine,55630,MI,Chest Pain,False,False,False,False,False,False,False,300
+70,Female,55867,Carle Foundation,50008,IL,Checkup,False,True,False,False,False,False,False,346
+34,Female,52427,Advocate Christ,53595,IL,Surgical Consult,False,False,False,False,False,False,False,600
+60,Female,55458,Northwestern Memorial,57410,IL,Physical Therapy,False,False,False,False,False,True,True,200
+64,Male,56857,Genesis Medical Center,55855,IA,Physical Therapy,False,False,False,True,False,False,False,200
+50,Male,53603,Ohio State Wexner,56459,OH,Mental Health,False,True,False,True,False,False,False,589
+36,Female,55580,Indiana University Health,57586,IN,Physical Therapy,True,False,False,False,False,False,False,257
+27,Other,54912,Mayo Clinic,52499,MN,Chest Pain,False,False,False,False,False,False,False,300
+70,Male,52296,Advocate Christ,55879,IL,Sports Injury,True,False,False,False,True,True,True,359
+51,Other,59772,Beaumont Royal Oak,54984,MI,Cardiology Consult,False,False,True,False,False,False,False,592
+33,Male,55377,Advocate Christ,50871,IL,GI Complaint,True,True,True,False,True,False,False,1166
+66,Female,54306,Sanford Fargo,50530,ND,Prenatal Visit,False,True,False,False,True,False,False,576
+51,Female,55718,Aurora St. Luke’s,53538,WI,Follow-up Visit,False,False,False,True,False,False,True,150
+43,Male,54310,Genesis Medical Center,51464,IA,Urinary Issue,False,False,False,False,False,True,False,200
+33,Male,57934,Sanford Fargo,53700,ND,Mental Health,True,False,False,False,False,False,True,373
+48,Male,51078,Mercy Health,58880,OH,Skin Rash,False,False,False,False,False,False,False,180
+55,Female,51713,MercyOne Des Moines,56743,IA,Chest Pain,False,True,False,False,False,False,False,639
+46,Female,57536,Essentia Health Duluth,51915,MN,Urinary Issue,False,False,False,False,False,False,False,200
+54,Male,59451,Michigan Medicine,54475,MI,Fracture Evaluation,False,False,False,True,False,False,False,350
+50,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+50,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+50,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+50,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+50,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+29,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+30,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+30,Male,ND,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+30,Male,ND,Generic Midwest Hospital,Chest Pain,False,False,False,False,False,False,False
+30,Male,ND,Generic Midwest Hospital,Chest Pain,False,True,False,False,False,False,False
+30,Male,ND,Generic Midwest Hospital,Chest Pain,True,True,False,False,False,False,False
+30,Male,ND,Generic Midwest Hospital,Chest Pain,True,True,False,True,False,False,False
+30,Female,ND,Generic Midwest Hospital,Chest Pain,True,True,False,True,False,False,False
+39,Female,ND,Generic Midwest Hospital,Chest Pain,True,True,False,True,False,False,False
+47,Female,ND,Generic Midwest Hospital,Chest Pain,True,True,False,True,False,False,False
+62,Female,ND,Generic Midwest Hospital,Chest Pain,True,True,False,True,False,False,False
+82,Female,ND,Generic Midwest Hospital,Chest Pain,True,True,False,True,False,False,False
+82,Female,WI,Generic Midwest Hospital,Chest Pain,True,True,False,True,False,False,False
+82,Female,WI,Generic Midwest Hospital,Back Pain,True,True,False,True,False,False,False
+82,Female,WI,Generic Midwest Hospital,Back Pain,False,True,False,True,False,False,False
+82,Female,WI,Generic Midwest Hospital,Back Pain,False,True,False,False,False,False,False
+82,Female,WI,Generic Midwest Hospital,Back Pain,False,True,False,False,False,True,False
+50,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+50,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+50,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+50,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+50,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+50,Male,IA,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+50,Male,IA,Generic Midwest Hospital,Cardiology Consult,False,False,False,False,False,False,False
+50,Male,IA,Generic Midwest Hospital,Cardiology Consult,False,True,False,False,False,False,False
+50,Male,IA,Generic Midwest Hospital,Cardiology Consult,True,True,False,False,False,False,False
+50,Male,IA,Generic Midwest Hospital,Cardiology Consult,True,True,False,False,False,True,False
+50,Male,IA,Generic Midwest Hospital,Cardiology Consult,True,True,False,False,True,True,False
+50,Male,IA,Generic Midwest Hospital,Cardiology Consult,True,False,False,False,True,True,False
+50,Male,IA,Generic Midwest Hospital,Cardiology Consult,False,False,False,False,True,True,False
+50,Male,IA,Generic Midwest Hospital,Cardiology Consult,True,False,False,False,True,True,False
+50,Male,IA,Generic Midwest Hospital,Cardiology Consult,True,False,False,False,False,True,False
+50,Male,IA,Generic Midwest Hospital,Cardiology Consult,True,False,False,True,False,True,False
+50,Female,IA,Generic Midwest Hospital,Cardiology Consult,True,False,False,True,False,True,False
+50,Female,OH,Generic Midwest Hospital,Cardiology Consult,True,False,False,True,False,True,False
+74,Female,OH,Generic Midwest Hospital,Cardiology Consult,True,False,False,True,False,True,False
+74,Female,OH,Generic Midwest Hospital,Cardiology Consult,True,True,False,True,False,True,False
+74,Female,OH,Generic Midwest Hospital,Cardiology Consult,False,True,False,True,False,True,False
+74,Female,OH,Generic Midwest Hospital,Medication Refill,False,True,False,True,False,True,False
+74,Female,OH,Generic Midwest Hospital,Medication Refill,False,False,False,True,False,True,False
+74,Female,OH,Generic Midwest Hospital,Medication Refill,False,False,False,False,False,True,False
+74,Female,OH,Generic Midwest Hospital,Medication Refill,False,False,False,False,False,False,False
+74,Female,OH,Generic Midwest Hospital,Medication Refill,False,False,False,False,False,True,False
+74,Female,OH,Generic Midwest Hospital,Medication Refill,True,False,False,False,False,True,False
+74,Female,OH,Generic Midwest Hospital,Medication Refill,False,False,False,False,False,True,False
+50,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+37,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+37,Male,SD,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+37,Male,SD,Generic Midwest Hospital,Cough/Fever,False,False,False,False,False,False,False
+37,Male,SD,Generic Midwest Hospital,Cough/Fever,False,False,False,False,False,True,False
+60,Male,SD,Generic Midwest Hospital,Cough/Fever,False,False,False,False,False,True,False
+63,Male,SD,Generic Midwest Hospital,Cough/Fever,False,False,False,False,False,True,False
+63,Male,SD,Generic Midwest Hospital,Ear Infection,False,False,False,False,False,True,False
+63,Male,SD,Generic Midwest Hospital,Ear Infection,True,False,False,False,False,True,False
+63,Male,SD,Generic Midwest Hospital,Ear Infection,True,False,False,False,False,False,False
+50,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+29,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+52,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+50,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+43,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+29,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+28,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+29,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+29,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+30,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+30,Male,ND,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+30,Male,ND,Generic Midwest Hospital,Back Pain,False,False,False,False,False,False,False
+30,Male,ND,Generic Midwest Hospital,Back Pain,False,True,False,False,False,False,False
+30,Male,ND,Generic Midwest Hospital,Back Pain,False,True,False,True,False,False,False
+50,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+30,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+30,Male,ND,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+30,Male,ND,Generic Midwest Hospital,Chest Pain,False,False,False,False,False,False,False
+30,Male,ND,Generic Midwest Hospital,Chest Pain,False,True,False,False,False,False,False
+30,Male,ND,Generic Midwest Hospital,Chest Pain,False,True,False,True,False,False,False
