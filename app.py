@@ -91,15 +91,15 @@ with st.expander("📊 Cost Drivers Explanation (SHAP)"):
         # Display SHAP summary image
         st.image("shap_summary_cleaned.png", caption="Top Cost Drivers (Cleaned Names)", use_column_width=True)
 
-        # Add explanation of top drivers (you can hardcode or parse from the plot code if needed)
-        st.markdown("**🧠 Top Cost Raising Features:**")
-        st.markdown("""
+        # Add explanation of top drivers 
+       st.markdown("**🧠 Top Cost Raising Features:**")
+	st.markdown("""
 	- **Visit: Surgical Consult** with average SHAP impact of `140.09`
-	- **Visit: Neurology Referral** with average SHAP impact of `96.05` 
-        - **Imaging Required** with average SHAP impact of `93.65`  
+	- **Visit: Neurology Referral** with average SHAP impact of `96.05`
+	- **Imaging Required** with average SHAP impact of `93.65`
 	- **Visit: Cardiology Consult** with average SHAP impact of `80.63`
-        - **Lab Work Required** with average SHAP impact of `62.90`   
-        """)
+	- **Lab Work Required** with average SHAP impact of `62.90`
+	""")
     except Exception as e:
         st.warning(f"SHAP explanation could not be displayed: {e}")
 
@@ -154,7 +154,7 @@ with st.expander("📉 Data Drift Report (Evidently)"):
         st.warning(f"Drift report could not be generated: {e}")
 
 
-# Feedback input (place this after showing the prediction)
+# Feedback input 
 feedback = st.text_area("💬 Leave feedback about the estimate:")
 
 if st.button("Submit Feedback"):
