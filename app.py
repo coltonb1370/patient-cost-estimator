@@ -153,3 +153,31 @@ with st.expander("📉 Data Drift Report (Evidently)"):
     except Exception as e:
         st.warning(f"Drift report could not be generated: {e}")
 
+
+# Feedback input (place this after showing the prediction)
+feedback = st.text_area("💬 Leave feedback about the estimate:")
+
+if st.button("Submit Feedback"):
+    import csv
+    from datetime import datetime
+
+    feedback_data = {
+        "timestamp": datetime.now().isoformat(),
+        "age": age,
+        "gender": gender,
+        "state": state,
+        "reason": reason_for_visit,
+        "estimated_cost": predicted_cost,
+        "user_feedback": feedback
+    }
+
+    try:
+        with open("user_feedback_log.csv", "a", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=feedback_data.keys())
+            if f.tell() == 0:
+                writer.writeheader()
+            writer.writerow(feedback_data)
+
+        st.success("✅ Feedback submitted. Thank you!")
+    except Exception as e:
+        st.error(f"❌ Failed to log feedback: {e}")
