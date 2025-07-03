@@ -182,11 +182,17 @@ if st.button("Submit Feedback"):
     except Exception as e:
         st.error(f"❌ Failed to log feedback: {e}")
 
- if st.sidebar.checkbox("📥 Show Feedback Log"):
+ # Place this at the root level of your script, not inside any if/else block
+if st.sidebar.checkbox("📥 Show Feedback Log"):
     if os.path.exists("user_feedback_log.csv"):
-        import pandas as pd
         df_feedback = pd.read_csv("user_feedback_log.csv")
         st.dataframe(df_feedback)
+        st.download_button(
+            label="Download Feedback Log as CSV",
+            data=df_feedback.to_csv(index=False),
+            file_name="user_feedback_log.csv",
+            mime="text/csv"
+        )
     else:
         st.info("No feedback has been submitted yet.")
 
