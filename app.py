@@ -181,3 +181,12 @@ if st.button("Submit Feedback"):
         st.success("✅ Feedback submitted. Thank you!")
     except Exception as e:
         st.error(f"❌ Failed to log feedback: {e}")
+
+ if st.sidebar.checkbox("📥 Show Feedback Log"):
+    if os.path.exists("user_feedback_log.csv"):
+        import pandas as pd
+        df_feedback = pd.read_csv("user_feedback_log.csv")
+        st.dataframe(df_feedback)
+    else:
+        st.info("No feedback has been submitted yet.")
+
