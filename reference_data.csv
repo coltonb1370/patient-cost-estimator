@@ -1,1001 +1,1001 @@
-﻿"age,gender,hospital_state,reason_for_visit,lab_required,imaging_required,diabetic,obese,smoker,hypertensive,asthmatic"
-"30,Female,ND,Diabetes Management,False,False,False,True,False,False,False"
-"37,Female,NE,Skin Rash,False,False,False,False,False,False,False"
-"68,Male,WI,Annual Physical,False,False,False,False,False,False,True"
-"78,Male,IA,GI Complaint,False,False,False,False,False,False,False"
-"69,Other,IL,Checkup,True,False,False,False,False,False,False"
-"40,Female,MI,GI Complaint,False,False,False,False,False,False,False"
-"47,Male,IA,Diabetes Management,False,False,False,False,True,False,False"
-"53,Male,ND,Medication Refill,False,True,True,False,True,False,False"
-"57,Female,ND,Diabetes Management,False,False,False,False,False,False,False"
-"56,Female,SD,Sports Injury,False,False,False,False,False,True,True"
-"32,Male,OH,Physical Therapy,True,False,False,False,False,False,False"
-"31,Male,OH,Annual Physical,False,False,False,True,False,False,False"
-"23,Male,IN,Back Pain,False,False,True,False,False,False,False"
-"52,Female,IA,Ear Infection,True,False,True,False,False,False,False"
-"57,Male,SD,Prenatal Visit,False,False,False,False,False,False,False"
-"58,Male,MN,GI Complaint,False,False,False,False,False,False,True"
-"57,Male,OH,Neurology Referral,False,True,False,False,True,True,False"
-"45,Female,NE,Sports Injury,False,False,False,False,True,False,False"
-"47,Female,WI,Fracture Evaluation,False,True,False,True,False,False,False"
-"58,Other,MI,Annual Physical,False,True,False,False,False,False,False"
-"64,Female,IL,Checkup,False,False,False,False,False,False,False"
-"52,Female,WI,Physical Therapy,False,False,False,False,False,True,False"
-"24,Male,NE,Fracture Evaluation,False,False,False,False,False,False,False"
-"36,Male,WI,Sports Injury,False,True,False,False,False,False,True"
-"48,Male,IN,Prenatal Visit,False,False,False,False,False,False,False"
-"68,Female,MI,Urinary Issue,True,True,False,True,True,False,False"
-"52,Female,IL,Urinary Issue,False,False,False,False,False,True,False"
-"44,Female,WI,Physical Therapy,False,False,False,False,False,True,False"
-"57,Female,WI,Ear Infection,False,False,False,False,False,False,False"
-"62,Female,IN,Back Pain,False,False,True,True,False,False,True"
-"67,Male,IN,Checkup,False,False,False,False,False,False,False"
-"51,Other,WI,Surgical Consult,True,True,False,False,False,False,True"
-"58,Female,ND,Sports Injury,False,False,True,True,False,False,False"
-"33,Male,MN,GI Complaint,False,True,False,False,False,False,False"
-"47,Female,IA,Neurology Referral,True,False,False,False,False,False,False"
-"72,Male,IA,Fracture Evaluation,False,True,False,False,False,False,False"
-"53,Female,IN,Medication Refill,True,False,False,False,False,False,True"
-"23,Female,MI,Follow-up Visit,True,True,False,False,False,False,False"
-"75,Female,MI,Diabetes Management,False,True,False,False,False,False,False"
-"49,Male,NE,Neurology Referral,False,False,False,False,False,False,False"
-"43,Female,WI,Prenatal Visit,True,False,True,False,False,False,False"
-"46,Female,IA,Back Pain,False,False,False,False,False,False,True"
-"53,Female,IL,Physical Therapy,False,False,False,False,False,False,False"
-"50,Male,MI,Diabetes Management,True,False,True,True,False,False,False"
-"51,Male,NE,Diabetes Management,True,False,False,False,False,False,False"
-"54,Male,SD,Cough/Fever,False,False,False,False,False,False,False"
-"77,Female,WI,Follow-up Visit,False,False,False,False,True,False,False"
-"60,Male,IL,Physical Therapy,True,False,False,False,False,False,False"
-"46,Female,WI,Cough/Fever,False,True,False,False,False,False,False"
-"40,Male,OH,Prenatal Visit,True,False,False,False,False,False,False"
-"74,Female,WI,Ear Infection,False,False,False,False,False,False,False"
-"42,Female,IA,Surgical Consult,True,False,False,False,True,False,False"
-"81,Male,NE,Medication Refill,True,False,True,False,False,False,False"
-"54,Female,IN,Diabetes Management,True,False,False,True,False,False,False"
-"63,Male,IA,Surgical Consult,False,True,False,False,False,True,False"
-"13,Male,SD,Urinary Issue,True,False,False,True,False,False,False"
-"65,Female,IN,Urinary Issue,True,False,True,False,True,False,True"
-"52,Male,IN,Physical Therapy,False,False,True,True,False,False,False"
-"22,Female,WI,Medication Refill,True,True,False,False,False,False,False"
-"52,Female,OH,Mental Health,False,False,False,False,False,False,False"
-"65,Male,IN,Follow-up Visit,False,False,True,False,False,False,False"
-"59,Female,MN,Back Pain,False,False,False,False,False,False,True"
-"57,Male,WI,Cough/Fever,True,False,True,True,False,False,True"
-"58,Male,MI,Medication Refill,False,True,False,False,True,False,False"
-"56,Female,OH,Checkup,True,False,False,False,False,False,False"
-"64,Female,OH,Checkup,False,False,False,False,True,True,True"
-"37,Female,NE,Cardiology Consult,True,False,False,False,False,False,False"
-"41,Male,MI,GI Complaint,False,False,False,False,True,True,False"
-"46,Male,IL,Sports Injury,True,False,False,False,False,True,False"
-"53,Male,WI,Ear Infection,False,False,False,False,False,False,False"
-"59,Male,NE,Surgical Consult,False,True,False,True,False,False,False"
-"53,Male,IN,Sports Injury,True,False,False,False,False,False,False"
-"46,Female,SD,Fracture Evaluation,True,False,False,False,False,False,False"
-"46,Other,MI,Physical Therapy,True,False,False,True,False,False,False"
-"56,Female,IA,Cardiology Consult,True,True,False,False,True,False,False"
-"32,Male,MI,Back Pain,True,False,False,False,False,False,False"
-"39,Female,IL,Skin Rash,False,False,False,False,False,False,False"
-"56,Female,MN,Cough/Fever,False,False,False,False,False,False,False"
-"28,Female,WI,Cough/Fever,False,False,False,False,False,False,False"
-"46,Female,OH,Surgical Consult,False,False,False,False,False,False,False"
-"49,Female,IN,GI Complaint,True,False,False,False,False,False,False"
-"74,Female,MN,Mental Health,True,False,True,False,False,False,False"
-"57,Male,MN,Follow-up Visit,False,False,False,False,False,False,False"
-"41,Male,MI,Annual Physical,False,False,False,False,False,False,False"
-"64,Female,IL,Chest Pain,False,False,True,True,False,True,False"
-"65,Male,MI,Cough/Fever,False,False,True,False,False,False,False"
-"63,Male,SD,Cough/Fever,False,False,False,False,False,True,False"
-"33,Male,MN,Sports Injury,False,False,False,True,False,False,False"
-"43,Female,IA,Sports Injury,False,False,False,False,False,False,True"
-"65,Male,IN,Checkup,True,False,True,False,False,False,False"
-"45,Male,IL,Skin Rash,False,False,False,False,True,False,True"
-"64,Female,OH,Back Pain,True,False,False,False,False,False,False"
-"64,Other,IL,GI Complaint,True,True,False,False,False,False,False"
-"49,Female,MI,Neurology Referral,True,False,False,False,False,False,True"
-"31,Female,MN,Skin Rash,False,False,False,False,False,False,False"
-"48,Female,MI,Follow-up Visit,False,False,False,False,False,False,False"
-"39,Male,SD,Physical Therapy,True,False,False,False,False,False,True"
-"32,Male,MN,Annual Physical,False,False,False,False,False,False,False"
-"69,Male,WI,Checkup,False,False,True,True,False,False,False"
-"53,Female,IL,Sports Injury,False,False,False,False,False,True,False"
-"41,Female,IA,Cough/Fever,False,False,False,True,False,False,False"
-"57,Female,IA,Surgical Consult,True,False,True,False,False,False,False"
-"45,Male,OH,Diabetes Management,True,False,True,False,True,False,False"
-"37,Male,OH,Skin Rash,False,False,False,False,True,False,False"
-"47,Other,IL,Neurology Referral,False,False,False,False,False,False,False"
-"65,Female,IL,Back Pain,False,False,False,True,True,True,False"
-"46,Male,IA,Chest Pain,True,True,False,False,False,False,False"
-"62,Male,OH,Mental Health,False,False,False,False,False,False,False"
-"56,Female,IA,Physical Therapy,False,True,False,False,False,False,False"
-"61,Male,NE,Back Pain,False,True,False,False,True,False,False"
-"55,Male,OH,Checkup,False,True,False,False,False,False,False"
-"56,Male,ND,Urinary Issue,False,False,False,False,False,False,False"
-"60,Male,OH,Sports Injury,False,False,False,False,False,False,False"
-"40,Female,MN,Skin Rash,False,False,False,False,False,False,False"
-"57,Female,NE,Urinary Issue,False,True,True,False,False,False,False"
-"57,Female,SD,Urinary Issue,True,True,False,False,True,False,False"
-"28,Male,WI,Cough/Fever,True,False,False,False,False,False,False"
-"63,Male,IN,Physical Therapy,True,True,False,False,False,False,False"
-"54,Female,OH,Urinary Issue,False,False,False,False,False,False,False"
-"33,Female,IL,Urinary Issue,False,True,False,False,False,True,False"
-"55,Female,WI,Urinary Issue,False,False,False,False,False,False,False"
-"59,Female,MN,Physical Therapy,False,False,False,True,False,False,False"
-"48,Female,ND,Checkup,True,True,True,False,False,False,False"
-"60,Male,NE,Cough/Fever,False,False,False,False,False,False,False"
-"47,Male,WI,Ear Infection,False,True,False,True,False,False,False"
-"36,Male,IL,Urinary Issue,True,False,False,False,True,False,False"
-"35,Male,OH,Mental Health,False,False,False,False,False,False,False"
-"39,Male,IL,Diabetes Management,False,True,True,True,False,False,False"
-"46,Other,IN,Skin Rash,False,False,False,False,False,False,True"
-"56,Male,IN,Ear Infection,False,False,False,False,True,False,False"
-"71,Female,OH,Sports Injury,False,True,False,True,False,False,False"
-"54,Male,SD,Diabetes Management,False,False,False,False,False,False,False"
-"21,Female,IA,Ear Infection,True,True,False,False,False,False,False"
-"41,Male,IL,Mental Health,True,False,False,False,False,False,False"
-"62,Female,OH,Neurology Referral,True,False,False,False,False,False,False"
-"52,Female,MI,Prenatal Visit,True,True,False,False,False,False,False"
-"58,Female,OH,Physical Therapy,True,False,True,False,False,False,False"
-"36,Female,MI,Ear Infection,False,True,True,False,False,False,False"
-"37,Female,IL,Follow-up Visit,False,False,False,False,False,False,False"
-"66,Male,IA,Ear Infection,True,False,False,True,False,False,False"
-"95,Female,IN,Mental Health,False,True,False,False,False,False,True"
-"34,Male,NE,Mental Health,False,False,False,False,False,False,False"
-"77,Female,IN,Follow-up Visit,False,True,False,False,True,False,True"
-"43,Female,SD,Neurology Referral,False,True,True,False,False,False,True"
-"39,Male,SD,Physical Therapy,True,False,False,False,False,False,True"
-"30,Female,IN,Diabetes Management,False,False,False,False,False,True,True"
-"79,Female,MI,Chest Pain,False,False,True,False,True,True,False"
-"53,Other,MI,Mental Health,True,True,False,True,False,True,False"
-"68,Female,MN,Annual Physical,False,True,False,False,False,False,False"
-"68,Female,OH,Mental Health,False,True,False,False,True,False,False"
-"54,Male,SD,Ear Infection,False,False,False,False,False,False,False"
-"46,Female,MI,Follow-up Visit,False,False,False,False,True,False,False"
-"74,Female,MN,Annual Physical,False,False,True,True,False,False,False"
-"47,Male,SD,Mental Health,False,False,False,False,False,True,False"
-"82,Female,IA,Back Pain,True,True,False,False,False,False,False"
-"34,Female,MN,Mental Health,True,True,False,False,False,False,False"
-"71,Female,IA,Physical Therapy,False,False,False,False,False,False,False"
-"58,Male,IN,Sports Injury,True,False,False,True,False,False,False"
-"34,Female,MN,Ear Infection,False,False,True,False,False,True,False"
-"31,Female,IA,Skin Rash,False,False,False,True,False,False,True"
-"46,Male,MN,GI Complaint,True,False,False,False,False,False,True"
-"30,Male,MI,Fracture Evaluation,False,True,False,False,False,False,False"
-"29,Male,IL,Cardiology Consult,True,False,False,False,False,False,False"
-"44,Female,SD,Checkup,False,False,False,False,False,False,False"
-"52,Male,MN,Mental Health,False,False,False,False,False,False,True"
-"46,Male,IL,Back Pain,False,False,False,True,False,False,False"
-"45,Male,MN,Urinary Issue,False,False,False,False,False,False,False"
-"50,Male,WI,Prenatal Visit,False,True,True,False,False,False,False"
-"61,Male,OH,Annual Physical,True,True,True,False,False,False,False"
-"62,Male,MN,Cough/Fever,False,True,False,False,False,False,False"
-"37,Male,NE,Annual Physical,False,True,False,True,False,False,False"
-"43,Male,ND,Follow-up Visit,True,False,False,False,False,False,True"
-"48,Female,OH,Sports Injury,True,False,False,False,False,False,False"
-"54,Male,NE,GI Complaint,False,False,True,True,False,False,False"
-"33,Male,OH,Ear Infection,False,False,True,False,False,False,False"
-"77,Female,MI,Checkup,False,True,False,True,True,False,False"
-"65,Female,IN,Follow-up Visit,False,False,True,False,False,True,True"
-"45,Female,MN,Surgical Consult,False,True,False,False,False,False,True"
-"47,Male,WI,Back Pain,False,True,False,False,True,False,False"
-"18,Male,IL,Fracture Evaluation,False,False,False,True,False,False,False"
-"59,Male,OH,Annual Physical,False,False,False,False,False,False,False"
-"30,Male,IL,Cough/Fever,False,False,True,True,False,False,False"
-"52,Female,SD,Follow-up Visit,True,False,False,False,True,False,False"
-"62,Female,ND,Checkup,False,True,True,True,False,False,False"
-"77,Male,IA,Back Pain,True,True,False,False,True,False,False"
-"55,Female,MI,Sports Injury,True,True,False,False,False,False,False"
-"68,Male,IA,GI Complaint,False,False,False,False,True,True,False"
-"48,Female,ND,Chest Pain,False,True,False,False,False,False,False"
-"32,Female,IN,Cardiology Consult,False,False,False,False,False,False,False"
-"68,Male,OH,Physical Therapy,True,False,False,False,False,False,False"
-"40,Male,NE,Cough/Fever,False,False,True,False,False,False,False"
-"54,Male,NE,Skin Rash,True,False,False,False,True,False,False"
-"86,Female,IL,Urinary Issue,False,False,False,False,False,False,False"
-"58,Male,IN,Diabetes Management,True,True,True,True,True,False,False"
-"30,Male,MI,Prenatal Visit,False,False,False,False,False,False,False"
-"69,Female,MN,GI Complaint,False,False,False,True,False,False,False"
-"52,Male,MI,GI Complaint,False,False,False,False,True,False,False"
-"47,Male,MI,GI Complaint,True,False,False,False,False,False,True"
-"53,Male,WI,Mental Health,False,False,False,False,True,True,False"
-"66,Female,OH,Back Pain,False,False,True,False,False,False,False"
-"92,Male,MN,Medication Refill,False,True,True,False,False,False,False"
-"71,Male,IA,Urinary Issue,True,False,False,False,True,False,False"
-"75,Male,IL,Prenatal Visit,True,False,True,False,False,False,False"
-"35,Other,OH,Physical Therapy,True,False,False,False,False,False,False"
-"78,Male,ND,Physical Therapy,True,True,False,False,False,False,False"
-"52,Female,IN,Annual Physical,False,False,False,False,True,False,False"
-"52,Female,IL,Cardiology Consult,False,False,False,False,False,False,False"
-"50,Male,IA,Annual Physical,False,True,False,False,True,False,False"
-"63,Male,ND,Annual Physical,False,False,False,False,False,False,False"
-"55,Female,IN,Medication Refill,False,False,True,False,False,False,False"
-"54,Male,NE,Checkup,False,False,False,False,False,False,False"
-"53,Female,IA,Cough/Fever,False,False,False,False,False,False,True"
-"58,Male,ND,Follow-up Visit,True,False,False,False,False,False,False"
-"62,Male,ND,Checkup,False,False,False,False,False,False,False"
-"64,Female,IL,Mental Health,False,False,True,False,False,True,False"
-"83,Female,NE,GI Complaint,False,False,True,True,False,False,True"
-"48,Male,ND,Diabetes Management,True,False,False,False,False,False,False"
-"44,Male,WI,Checkup,False,False,False,False,False,False,False"
-"63,Female,MI,Cardiology Consult,True,True,False,False,False,False,False"
-"52,Male,MN,Medication Refill,True,True,False,False,False,False,False"
-"48,Female,OH,GI Complaint,True,False,True,False,False,False,False"
-"44,Female,IN,Diabetes Management,False,False,False,False,False,False,False"
-"53,Male,IL,Sports Injury,False,True,False,False,False,False,False"
-"59,Male,IN,Fracture Evaluation,False,False,False,False,True,True,False"
-"48,Male,WI,Fracture Evaluation,False,True,True,True,False,False,True"
-"77,Female,OH,Mental Health,False,False,False,False,True,False,False"
-"44,Female,ND,Mental Health,False,False,False,False,True,False,False"
-"38,Male,MI,Cardiology Consult,False,False,False,False,False,False,False"
-"30,Male,IN,Checkup,False,False,False,False,True,False,True"
-"68,Female,SD,Ear Infection,False,False,False,False,True,False,False"
-"39,Female,WI,Back Pain,False,False,False,False,False,True,False"
-"76,Female,MN,Neurology Referral,False,True,True,False,True,False,False"
-"43,Male,OH,Checkup,False,False,False,False,False,False,False"
-"27,Other,OH,Skin Rash,False,False,False,False,False,False,False"
-"67,Female,IN,Sports Injury,False,False,False,False,False,True,False"
-"52,Male,NE,Urinary Issue,True,False,False,False,False,False,False"
-"28,Female,OH,Diabetes Management,True,False,True,False,False,False,False"
-"62,Male,WI,Chest Pain,False,False,False,False,False,False,False"
-"56,Female,IA,Urinary Issue,True,False,False,False,True,False,False"
-"45,Female,NE,Back Pain,False,False,False,False,False,False,False"
-"38,Female,NE,Chest Pain,True,False,True,False,True,False,False"
-"62,Male,IN,Follow-up Visit,False,False,False,False,False,True,True"
-"50,Female,IA,Chest Pain,False,False,False,False,True,False,False"
-"65,Male,MI,Annual Physical,True,True,False,True,False,False,False"
-"52,Male,IA,Neurology Referral,True,False,False,True,True,False,False"
-"35,Female,SD,Cough/Fever,False,True,False,False,False,True,False"
-"44,Other,WI,Neurology Referral,False,False,True,False,False,False,False"
-"78,Female,OH,Sports Injury,False,False,False,False,False,False,True"
-"42,Female,MN,Neurology Referral,True,False,False,False,False,False,False"
-"43,Female,MN,GI Complaint,False,False,False,False,False,False,True"
-"35,Female,IN,Sports Injury,False,False,False,False,False,False,True"
-"65,Female,MI,Sports Injury,False,True,True,False,False,False,False"
-"57,Female,MI,Diabetes Management,False,True,False,False,False,False,True"
-"68,Female,MI,Checkup,False,False,False,True,False,False,False"
-"25,Female,IA,Physical Therapy,False,False,False,False,False,False,False"
-"12,Female,MI,Mental Health,True,False,True,False,True,False,False"
-"44,Female,MI,Cardiology Consult,False,True,True,True,False,False,False"
-"43,Male,WI,Mental Health,True,False,False,False,False,False,False"
-"35,Male,IA,Prenatal Visit,True,False,False,True,False,False,False"
-"40,Male,ND,Sports Injury,True,False,False,True,False,True,False"
-"58,Male,IL,Checkup,False,False,False,False,False,False,False"
-"74,Female,WI,Cough/Fever,False,False,False,False,False,False,False"
-"41,Female,IL,Cardiology Consult,False,False,False,False,False,False,False"
-"70,Female,OH,Diabetes Management,False,False,False,False,False,False,False"
-"38,Male,MI,Diabetes Management,False,True,False,False,False,False,False"
-"37,Male,SD,Neurology Referral,True,True,False,False,False,False,True"
-"60,Male,MN,Sports Injury,True,True,False,False,False,False,False"
-"64,Male,WI,Urinary Issue,False,False,False,False,False,False,False"
-"20,Male,IN,Cardiology Consult,False,True,False,False,True,False,False"
-"34,Male,IL,Medication Refill,False,False,False,False,False,False,False"
-"62,Female,IA,Physical Therapy,True,False,False,False,False,True,False"
-"55,Male,IA,Physical Therapy,True,True,False,False,False,False,False"
-"64,Female,NE,Cardiology Consult,False,False,False,True,True,False,False"
-"58,Male,IN,Follow-up Visit,True,False,False,False,True,False,False"
-"30,Female,IL,Cardiology Consult,False,False,False,False,False,False,False"
-"53,Male,OH,GI Complaint,False,False,False,False,True,False,True"
-"58,Female,OH,Physical Therapy,False,False,False,False,False,True,False"
-"56,Female,ND,Fracture Evaluation,False,False,False,False,False,False,True"
-"62,Female,OH,Annual Physical,False,True,False,False,True,False,False"
-"49,Male,IL,Urinary Issue,False,False,True,False,False,False,False"
-"48,Female,OH,Cardiology Consult,True,True,False,False,False,False,False"
-"45,Male,MI,Follow-up Visit,True,True,False,False,False,False,False"
-"57,Female,OH,Cough/Fever,False,False,False,False,False,False,False"
-"62,Female,IN,Follow-up Visit,False,False,False,False,False,False,False"
-"25,Male,MI,Neurology Referral,False,False,False,False,False,False,False"
-"51,Male,WI,Annual Physical,True,False,False,False,False,False,True"
-"43,Female,IN,Annual Physical,True,False,False,False,False,False,False"
-"65,Male,OH,Prenatal Visit,False,False,False,False,True,False,False"
-"47,Male,WI,Sports Injury,False,False,False,False,False,False,False"
-"78,Other,MN,Neurology Referral,False,True,False,False,True,False,False"
-"47,Male,MN,Fracture Evaluation,True,False,False,False,False,False,False"
-"35,Male,OH,Checkup,True,False,False,True,False,False,False"
-"37,Male,MI,Cardiology Consult,True,False,False,True,False,False,False"
-"40,Male,OH,Urinary Issue,True,False,False,False,False,False,False"
-"49,Male,MI,GI Complaint,False,False,True,False,False,False,False"
-"48,Male,IL,Prenatal Visit,False,False,False,True,False,False,False"
-"46,Female,SD,Urinary Issue,True,False,False,False,False,False,True"
-"59,Female,NE,Prenatal Visit,False,False,False,False,False,False,True"
-"46,Female,MN,Fracture Evaluation,False,False,True,True,False,False,False"
-"72,Female,IN,Checkup,True,False,False,False,False,False,False"
-"62,Male,MN,Follow-up Visit,True,False,False,False,False,False,False"
-"51,Male,MI,Fracture Evaluation,False,False,True,True,False,False,False"
-"55,Male,OH,Cardiology Consult,False,True,False,True,False,True,False"
-"50,Male,IA,Diabetes Management,True,False,False,False,False,False,False"
-"10,Other,MI,Chest Pain,False,False,True,False,False,False,False"
-"47,Female,MN,Fracture Evaluation,False,False,False,False,False,False,False"
-"30,Female,WI,Sports Injury,False,False,False,False,True,False,False"
-"43,Female,MN,GI Complaint,False,False,False,False,False,False,False"
-"25,Male,IL,Skin Rash,False,False,False,False,False,False,False"
-"68,Male,IA,Sports Injury,False,False,False,False,False,False,False"
-"63,Male,WI,Urinary Issue,True,False,False,False,False,False,False"
-"50,Male,MI,GI Complaint,True,True,False,False,False,False,False"
-"23,Male,IL,Neurology Referral,False,False,True,False,False,False,True"
-"63,Male,IL,Skin Rash,True,False,False,False,False,False,False"
-"50,Female,WI,Medication Refill,False,False,False,False,False,False,False"
-"43,Male,MN,Medication Refill,False,False,False,False,False,True,False"
-"42,Male,IL,Neurology Referral,True,False,False,False,False,False,False"
-"26,Male,WI,Cardiology Consult,False,False,False,False,False,True,False"
-"52,Female,MI,Annual Physical,False,False,False,False,False,False,False"
-"56,Female,MN,Surgical Consult,True,False,False,False,False,False,True"
-"50,Female,MN,Physical Therapy,False,False,False,True,False,False,False"
-"75,Female,WI,Sports Injury,True,True,False,True,False,False,False"
-"60,Female,WI,Neurology Referral,True,False,False,False,True,False,False"
-"44,Female,ND,Fracture Evaluation,True,True,False,True,False,False,True"
-"56,Male,OH,Back Pain,True,True,False,False,False,False,True"
-"50,Other,MI,Surgical Consult,False,False,False,False,False,False,True"
-"49,Male,ND,Neurology Referral,True,False,False,False,False,False,False"
-"28,Female,MN,Ear Infection,False,False,False,False,False,False,False"
-"69,Male,MN,Ear Infection,False,False,True,False,False,False,False"
-"51,Male,MI,Prenatal Visit,True,False,False,False,False,False,False"
-"55,Male,NE,Sports Injury,False,True,True,False,False,True,False"
-"33,Female,IN,Physical Therapy,True,False,False,True,False,False,False"
-"44,Male,MI,Diabetes Management,False,False,True,False,False,False,False"
-"37,Male,IA,Annual Physical,False,False,False,False,False,False,True"
-"49,Female,OH,Cardiology Consult,False,False,False,False,False,False,True"
-"38,Male,IL,Fracture Evaluation,True,False,False,False,False,False,False"
-"41,Female,IA,Diabetes Management,False,False,False,False,False,False,False"
-"56,Male,IN,Back Pain,True,False,False,False,True,False,False"
-"66,Female,IN,Diabetes Management,False,False,False,False,False,False,False"
-"42,Female,MN,Urinary Issue,True,False,False,True,False,False,False"
-"58,Male,IA,Checkup,False,False,False,True,False,True,False"
-"38,Male,IL,Medication Refill,False,False,False,False,False,False,False"
-"31,Male,IN,Annual Physical,False,False,False,False,False,False,False"
-"48,Male,IA,Annual Physical,False,False,False,True,False,True,False"
-"47,Male,WI,Sports Injury,True,False,False,False,False,False,False"
-"32,Female,OH,Back Pain,False,False,False,True,False,False,False"
-"50,Female,IL,Skin Rash,True,False,False,False,False,False,False"
-"51,Male,MI,Follow-up Visit,False,False,True,False,False,False,False"
-"54,Female,NE,Cough/Fever,False,False,True,False,False,False,False"
-"35,Female,ND,Mental Health,False,False,False,True,False,False,False"
-"70,Female,IA,Sports Injury,False,False,True,False,True,False,False"
-"40,Female,IN,Chest Pain,False,False,False,False,False,False,False"
-"34,Male,IN,Skin Rash,False,False,False,False,False,False,False"
-"40,Male,IN,Mental Health,False,False,False,False,False,False,False"
-"49,Male,OH,Surgical Consult,False,True,False,False,False,False,False"
-"35,Male,ND,Skin Rash,False,False,False,False,False,False,False"
-"62,Male,OH,Cough/Fever,False,False,False,False,False,False,False"
-"60,Female,WI,Follow-up Visit,True,True,True,False,False,True,False"
-"45,Male,IN,Back Pain,False,False,False,False,False,False,False"
-"46,Female,MN,Back Pain,False,False,False,False,False,False,False"
-"63,Female,IN,Follow-up Visit,False,False,False,False,False,False,False"
-"34,Female,IN,GI Complaint,False,False,False,False,False,False,True"
-"42,Male,MI,Neurology Referral,False,True,False,False,True,False,False"
-"53,Female,IN,Diabetes Management,False,False,False,False,False,False,True"
-"77,Female,OH,Sports Injury,True,False,False,True,False,False,False"
-"13,Male,MI,Surgical Consult,True,False,False,False,False,True,False"
-"60,Male,OH,Prenatal Visit,False,False,False,False,False,False,False"
-"54,Male,OH,Urinary Issue,True,False,False,False,False,False,False"
-"58,Male,OH,Ear Infection,False,True,False,False,True,True,False"
-"45,Female,OH,Ear Infection,True,True,False,False,False,False,False"
-"73,Male,NE,Checkup,False,False,False,True,True,True,False"
-"28,Female,IL,Follow-up Visit,False,False,False,False,False,False,True"
-"55,Male,MI,Skin Rash,False,False,True,False,False,False,False"
-"38,Male,IA,Mental Health,True,True,False,True,True,False,False"
-"60,Female,MN,Neurology Referral,False,True,True,False,False,False,True"
-"50,Male,MI,Neurology Referral,True,False,False,True,False,False,False"
-"48,Male,MI,Neurology Referral,False,False,False,True,False,True,False"
-"59,Female,IL,Physical Therapy,False,True,False,False,False,False,False"
-"38,Male,SD,Annual Physical,True,False,False,False,True,True,False"
-"35,Male,IN,Surgical Consult,False,True,False,False,False,False,False"
-"40,Male,IL,Chest Pain,False,False,False,True,False,False,False"
-"79,Male,IL,Sports Injury,True,False,False,False,True,True,False"
-"62,Male,NE,Annual Physical,False,True,False,False,False,False,False"
-"51,Male,OH,Ear Infection,True,True,False,False,False,False,False"
-"45,Female,IN,Skin Rash,False,False,True,False,False,True,False"
-"61,Female,WI,Ear Infection,False,True,False,True,False,False,False"
-"85,Female,IA,Urinary Issue,False,False,False,True,False,False,False"
-"67,Male,IL,Cardiology Consult,True,False,False,False,False,False,False"
-"42,Female,IA,Back Pain,True,False,False,False,False,False,False"
-"56,Female,IN,Neurology Referral,True,False,True,False,False,True,False"
-"35,Female,IN,Cardiology Consult,True,False,False,True,False,False,False"
-"69,Female,WI,Checkup,True,False,False,False,True,False,False"
-"44,Male,MI,Back Pain,False,False,True,False,False,False,False"
-"44,Male,IL,Cough/Fever,True,False,False,False,False,False,False"
-"38,Female,IL,Surgical Consult,True,False,False,False,False,False,False"
-"43,Female,OH,Checkup,False,False,False,False,False,False,False"
-"25,Female,MN,Physical Therapy,True,False,False,False,True,False,True"
-"43,Female,OH,Back Pain,True,True,False,False,False,False,False"
-"44,Male,OH,Follow-up Visit,False,True,False,False,False,False,False"
-"61,Other,MI,Skin Rash,False,False,True,False,False,True,False"
-"58,Male,IA,Cardiology Consult,False,False,False,False,False,False,False"
-"45,Male,IN,Diabetes Management,False,True,False,False,True,False,False"
-"70,Female,OH,Cardiology Consult,True,False,False,False,False,False,False"
-"26,Female,IN,Ear Infection,False,True,True,False,False,False,False"
-"50,Female,WI,Urinary Issue,False,True,False,True,True,False,False"
-"22,Male,ND,GI Complaint,True,True,False,False,False,False,False"
-"42,Male,NE,Chest Pain,True,False,False,False,False,False,False"
-"48,Female,MI,Medication Refill,True,False,True,False,False,False,False"
-"39,Male,IA,Cough/Fever,False,False,False,False,False,False,False"
-"35,Other,IN,Cough/Fever,False,False,False,False,False,False,False"
-"50,Male,ND,Diabetes Management,False,False,False,True,False,False,False"
-"28,Female,MN,Sports Injury,True,True,False,False,False,False,False"
-"56,Female,SD,Physical Therapy,False,False,False,False,True,True,False"
-"37,Female,MN,Diabetes Management,True,False,False,False,False,True,True"
-"45,Male,OH,Prenatal Visit,False,False,False,False,False,True,False"
-"46,Female,NE,Ear Infection,False,False,False,True,True,False,False"
-"56,Female,MI,Medication Refill,False,False,True,False,False,False,False"
-"48,Male,IL,Diabetes Management,False,True,False,False,False,False,True"
-"53,Male,MI,Cough/Fever,False,False,False,False,False,False,False"
-"74,Male,MN,Skin Rash,False,False,False,True,False,False,False"
-"35,Female,IN,Skin Rash,True,True,False,True,False,False,False"
-"50,Male,ND,Mental Health,False,False,False,True,False,True,False"
-"31,Male,NE,Follow-up Visit,False,False,False,False,False,False,False"
-"63,Male,MN,Sports Injury,True,True,False,False,True,False,True"
-"52,Female,IN,Surgical Consult,True,True,True,False,False,False,True"
-"36,Male,SD,GI Complaint,True,False,False,False,False,False,False"
-"43,Male,OH,Ear Infection,False,False,False,False,True,False,False"
-"65,Male,MN,GI Complaint,False,False,False,False,False,False,False"
-"67,Other,OH,Neurology Referral,True,False,False,True,False,False,False"
-"42,Male,SD,Mental Health,False,False,False,False,False,True,False"
-"49,Male,IN,Fracture Evaluation,False,False,False,True,False,False,False"
-"57,Male,ND,Urinary Issue,False,True,False,True,False,False,False"
-"64,Female,IN,Fracture Evaluation,False,True,True,False,False,False,False"
-"35,Female,IL,Back Pain,False,False,False,False,False,False,False"
-"49,Male,WI,Annual Physical,True,False,False,False,False,False,False"
-"59,Female,MI,Fracture Evaluation,False,True,True,False,False,True,False"
-"55,Male,OH,Skin Rash,False,False,False,False,False,False,False"
-"69,Female,OH,Follow-up Visit,False,False,False,False,False,False,False"
-"35,Male,MN,Mental Health,False,False,False,False,False,False,False"
-"63,Female,WI,Physical Therapy,True,False,True,False,False,False,False"
-"75,Female,ND,Checkup,False,False,True,False,True,False,False"
-"40,Male,NE,Diabetes Management,False,False,False,False,False,False,False"
-"60,Female,OH,Skin Rash,False,False,False,False,False,False,False"
-"46,Other,NE,Medication Refill,True,False,False,False,False,False,False"
-"48,Male,OH,Mental Health,False,True,False,False,False,False,False"
-"27,Female,IN,Sports Injury,True,False,False,True,False,False,False"
-"49,Female,IN,Urinary Issue,False,False,False,False,False,False,False"
-"49,Male,IL,Physical Therapy,False,True,False,False,False,False,False"
-"66,Female,MI,Physical Therapy,False,False,False,False,False,False,False"
-"60,Male,IN,Physical Therapy,False,False,True,False,False,True,False"
-"77,Female,ND,Annual Physical,False,False,False,False,False,False,False"
-"67,Male,MI,Ear Infection,False,False,False,False,False,False,False"
-"49,Male,ND,Mental Health,False,True,False,True,False,False,False"
-"47,Female,IN,Skin Rash,False,False,False,True,False,False,False"
-"56,Male,SD,Cardiology Consult,False,False,False,False,False,False,False"
-"30,Male,IL,Follow-up Visit,False,True,False,False,True,False,False"
-"82,Male,WI,Medication Refill,False,True,False,False,False,False,False"
-"79,Female,IL,Urinary Issue,True,False,False,False,False,False,True"
-"60,Male,WI,Sports Injury,False,False,False,False,False,False,False"
-"40,Female,NE,Physical Therapy,False,False,False,False,False,False,False"
-"38,Other,OH,Diabetes Management,False,False,False,False,False,False,True"
-"50,Other,IL,Ear Infection,False,False,False,False,True,False,False"
-"61,Male,IN,Cardiology Consult,False,False,False,True,False,False,False"
-"55,Male,MI,Back Pain,False,False,False,True,False,False,False"
-"30,Male,IA,Physical Therapy,False,False,False,False,False,False,True"
-"41,Female,NE,Annual Physical,False,False,False,False,False,False,False"
-"54,Male,MI,Fracture Evaluation,False,False,True,False,False,False,False"
-"60,Female,IL,Mental Health,True,False,False,False,False,False,False"
-"58,Female,NE,Ear Infection,False,False,False,False,False,False,False"
-"60,Male,ND,Back Pain,True,False,False,False,False,True,True"
-"37,Male,WI,Follow-up Visit,False,False,False,False,False,False,False"
-"52,Male,IA,Back Pain,False,False,True,True,False,False,True"
-"53,Male,MI,Checkup,False,False,False,False,False,False,True"
-"48,Male,IL,Skin Rash,True,False,True,False,False,False,False"
-"68,Female,IN,Fracture Evaluation,False,False,False,False,False,False,False"
-"53,Male,MN,Follow-up Visit,True,True,False,False,False,False,True"
-"47,Male,WI,Checkup,False,False,True,False,False,False,False"
-"45,Female,WI,Diabetes Management,False,True,False,False,False,False,False"
-"35,Male,MI,Follow-up Visit,True,False,False,False,True,True,False"
-"64,Female,MI,Neurology Referral,False,False,False,False,True,False,True"
-"35,Female,IN,Follow-up Visit,True,False,False,True,True,False,True"
-"33,Male,MI,Back Pain,False,False,False,False,False,False,False"
-"10,Female,MN,Sports Injury,True,False,False,False,False,False,False"
-"42,Male,IL,Fracture Evaluation,False,True,False,True,False,False,False"
-"61,Female,MN,Urinary Issue,False,False,True,False,False,False,True"
-"71,Male,IL,Checkup,False,False,False,True,False,False,False"
-"39,Female,MI,Skin Rash,False,False,False,False,True,False,False"
-"57,Male,ND,Follow-up Visit,False,False,False,False,False,False,False"
-"57,Female,IL,Follow-up Visit,False,False,True,False,False,False,False"
-"42,Male,IL,Cough/Fever,False,False,True,False,False,False,False"
-"38,Female,IA,Sports Injury,True,True,False,True,False,True,True"
-"65,Female,IN,Urinary Issue,False,True,False,False,False,False,False"
-"46,Female,SD,Prenatal Visit,False,False,True,False,False,False,False"
-"52,Female,OH,Ear Infection,False,True,False,False,False,False,False"
-"38,Male,SD,Neurology Referral,False,True,False,True,False,True,False"
-"71,Male,IL,Follow-up Visit,False,False,True,False,False,False,False"
-"42,Female,SD,Surgical Consult,True,False,False,False,True,False,False"
-"49,Female,MN,Diabetes Management,False,False,False,False,False,False,True"
-"74,Male,IN,Medication Refill,False,False,False,False,False,False,False"
-"39,Male,IA,Skin Rash,False,False,False,False,False,False,False"
-"45,Male,SD,Neurology Referral,False,False,False,False,False,False,False"
-"62,Male,IN,Prenatal Visit,True,False,False,False,False,False,True"
-"58,Male,IL,Back Pain,True,False,False,False,False,False,False"
-"58,Female,OH,Sports Injury,False,True,False,False,False,True,False"
-"40,Other,IN,Cardiology Consult,False,True,True,False,False,False,False"
-"42,Female,MI,Mental Health,False,False,False,False,False,False,False"
-"56,Other,MI,Sports Injury,False,False,False,False,False,False,False"
-"63,Female,IN,Cardiology Consult,False,False,False,False,False,False,False"
-"23,Male,IN,Ear Infection,False,False,True,False,False,False,False"
-"53,Female,MN,Fracture Evaluation,False,False,False,False,False,False,False"
-"63,Female,OH,Annual Physical,False,False,False,False,False,False,False"
-"80,Female,MN,Chest Pain,False,True,False,True,False,False,False"
-"64,Male,IL,Annual Physical,False,False,False,False,False,False,False"
-"64,Female,NE,Physical Therapy,True,True,False,False,False,True,False"
-"28,Male,MN,Fracture Evaluation,False,True,False,True,False,False,False"
-"40,Female,IL,Fracture Evaluation,False,False,False,False,True,True,False"
-"32,Female,WI,Mental Health,True,True,False,False,False,True,False"
-"36,Female,OH,Surgical Consult,False,False,False,True,True,False,False"
-"48,Male,OH,Physical Therapy,True,False,True,False,False,False,False"
-"48,Other,IL,Annual Physical,True,False,False,False,False,True,False"
-"19,Female,IL,Back Pain,False,True,False,False,False,False,False"
-"32,Male,IA,Follow-up Visit,False,True,False,False,False,False,False"
-"25,Male,MI,Checkup,False,False,False,False,False,False,False"
-"37,Male,MI,Prenatal Visit,False,False,False,False,False,True,True"
-"43,Male,IN,Surgical Consult,False,False,False,False,False,True,False"
-"61,Male,WI,Medication Refill,False,True,False,False,False,False,False"
-"29,Male,MI,Checkup,False,False,False,False,False,False,False"
-"55,Other,OH,Chest Pain,False,True,True,False,False,False,False"
-"16,Female,IL,GI Complaint,True,False,False,False,False,False,False"
-"41,Female,OH,Mental Health,True,False,False,False,True,False,True"
-"53,Female,MN,Cough/Fever,True,False,False,False,True,False,True"
-"61,Male,MI,Physical Therapy,True,False,False,True,False,False,False"
-"19,Other,IN,Chest Pain,True,False,False,False,False,False,False"
-"57,Female,MI,Skin Rash,False,True,False,True,False,False,False"
-"49,Female,MN,Surgical Consult,False,True,False,False,False,True,False"
-"41,Female,IN,Cough/Fever,False,False,False,True,False,True,False"
-"43,Female,WI,Follow-up Visit,False,False,False,False,False,False,False"
-"41,Female,MN,Sports Injury,False,True,True,True,False,False,True"
-"27,Male,WI,Diabetes Management,False,False,False,False,False,False,True"
-"56,Female,OH,GI Complaint,False,False,False,False,False,False,False"
-"43,Female,NE,Ear Infection,False,False,False,True,False,False,False"
-"67,Male,OH,Neurology Referral,True,False,False,False,False,False,True"
-"49,Male,MI,Sports Injury,True,False,True,False,False,False,False"
-"56,Female,WI,Mental Health,True,False,False,False,False,False,False"
-"54,Female,IN,Fracture Evaluation,True,False,False,False,False,False,False"
-"78,Female,IL,Back Pain,True,False,False,False,True,False,False"
-"38,Male,MN,Back Pain,False,False,False,False,False,False,False"
-"34,Female,MI,Prenatal Visit,False,False,False,False,False,False,True"
-"68,Female,IL,Surgical Consult,False,False,False,False,False,False,False"
-"72,Female,MN,Follow-up Visit,True,False,True,False,False,False,False"
-"64,Female,MN,Physical Therapy,False,False,False,False,False,False,True"
-"65,Male,IL,GI Complaint,False,False,False,False,False,False,False"
-"46,Male,MI,Checkup,False,False,False,True,False,False,False"
-"38,Male,IL,Urinary Issue,False,True,False,False,False,False,True"
-"61,Female,IL,Follow-up Visit,False,True,False,False,False,True,False"
-"41,Male,OH,GI Complaint,False,False,False,True,False,False,True"
-"67,Female,IL,Chest Pain,False,False,False,False,True,False,False"
-"58,Male,IA,Physical Therapy,False,False,False,False,False,False,False"
-"61,Male,WI,Physical Therapy,False,True,False,False,False,True,False"
-"63,Female,NE,Sports Injury,True,False,False,False,False,False,False"
-"25,Male,MN,Cardiology Consult,False,False,False,False,False,False,False"
-"48,Female,MI,Cough/Fever,False,True,False,False,False,False,False"
-"47,Other,WI,Physical Therapy,False,False,False,False,False,True,False"
-"38,Male,IA,Prenatal Visit,False,False,False,False,False,False,True"
-"30,Female,IA,Surgical Consult,False,False,False,True,True,False,False"
-"33,Female,ND,Follow-up Visit,False,False,False,True,False,False,False"
-"42,Female,MI,Skin Rash,False,False,False,False,False,False,False"
-"36,Male,IN,GI Complaint,False,True,False,False,False,False,False"
-"41,Male,WI,GI Complaint,True,False,False,False,False,False,False"
-"33,Female,MI,Cough/Fever,True,False,False,False,False,False,False"
-"36,Male,MI,Annual Physical,True,True,False,False,False,False,False"
-"74,Male,IA,Fracture Evaluation,False,True,True,False,True,False,False"
-"23,Male,NE,Annual Physical,False,False,False,False,False,False,False"
-"37,Female,SD,Follow-up Visit,False,True,False,False,False,False,False"
-"37,Female,NE,Physical Therapy,False,True,False,False,False,False,False"
-"31,Male,SD,Fracture Evaluation,True,False,False,False,False,False,False"
-"75,Female,IA,Skin Rash,False,False,False,False,False,True,False"
-"43,Other,MI,Medication Refill,False,False,False,False,True,False,False"
-"50,Male,IL,Mental Health,True,True,False,True,False,False,True"
-"50,Male,IN,Fracture Evaluation,True,False,False,False,False,False,False"
-"47,Female,OH,Prenatal Visit,True,False,False,False,True,True,False"
-"46,Male,OH,Surgical Consult,True,False,True,False,False,True,False"
-"43,Male,SD,Urinary Issue,True,False,False,True,False,False,False"
-"31,Female,WI,Follow-up Visit,True,False,False,False,False,False,False"
-"61,Female,IA,Annual Physical,False,False,True,False,False,True,False"
-"58,Male,OH,Neurology Referral,True,False,False,False,False,False,False"
-"69,Male,IL,Follow-up Visit,False,False,False,False,False,False,False"
-"53,Female,OH,Medication Refill,False,False,False,False,False,False,False"
-"47,Female,IN,Back Pain,False,False,False,False,True,False,False"
-"54,Other,MI,Sports Injury,False,True,False,False,False,False,False"
-"55,Male,MN,Mental Health,False,True,True,False,False,False,False"
-"45,Male,MN,Mental Health,False,False,False,False,True,False,False"
-"58,Other,MN,Surgical Consult,False,False,False,False,False,False,False"
-"51,Other,MN,Ear Infection,False,False,False,False,False,False,False"
-"64,Female,MI,Sports Injury,False,False,False,False,False,False,False"
-"50,Male,MN,Skin Rash,False,False,False,False,False,False,True"
-"54,Female,IL,Ear Infection,True,False,False,False,False,False,False"
-"43,Male,IL,Diabetes Management,False,False,False,False,False,False,False"
-"50,Male,IN,Cardiology Consult,True,False,False,False,True,False,False"
-"43,Male,MN,Cardiology Consult,False,False,False,False,True,False,True"
-"51,Male,MN,Medication Refill,False,False,False,False,False,False,False"
-"32,Female,WI,Back Pain,False,False,False,False,False,False,False"
-"77,Male,WI,Mental Health,True,False,False,False,False,False,False"
-"70,Male,IN,Physical Therapy,False,False,False,False,True,False,False"
-"59,Male,IL,Annual Physical,False,False,False,False,False,True,False"
-"58,Female,OH,Fracture Evaluation,False,False,True,False,False,True,False"
-"59,Female,IL,Cardiology Consult,True,False,False,False,False,False,False"
-"43,Female,WI,Cough/Fever,True,False,False,False,False,False,False"
-"39,Male,IN,GI Complaint,False,True,False,False,False,False,False"
-"43,Female,IN,Follow-up Visit,False,False,True,False,False,False,False"
-"27,Other,IN,Cough/Fever,False,False,True,False,False,True,False"
-"49,Male,OH,Skin Rash,False,True,False,False,False,False,False"
-"35,Male,MI,Follow-up Visit,True,False,True,False,False,False,False"
-"46,Male,MI,Ear Infection,False,False,True,False,False,True,False"
-"57,Male,WI,Surgical Consult,False,True,False,False,False,False,False"
-"69,Male,OH,Chest Pain,False,True,False,True,False,True,False"
-"41,Female,IA,Fracture Evaluation,False,False,False,False,True,False,False"
-"61,Male,MI,Skin Rash,False,False,True,False,False,False,False"
-"45,Female,IL,Neurology Referral,False,False,False,False,False,False,False"
-"77,Female,ND,Diabetes Management,False,False,False,True,False,False,False"
-"39,Male,MI,Back Pain,False,False,False,False,False,False,True"
-"65,Male,IN,Surgical Consult,False,False,True,False,False,False,False"
-"53,Female,MI,Chest Pain,True,False,False,False,False,False,False"
-"72,Male,WI,Cough/Fever,False,False,False,True,False,False,False"
-"39,Male,MN,Fracture Evaluation,True,True,False,False,False,False,False"
-"61,Female,IL,Cardiology Consult,False,False,False,False,False,False,False"
-"59,Male,NE,Mental Health,True,False,False,False,False,True,False"
-"67,Female,IN,Follow-up Visit,False,False,False,False,False,False,False"
-"51,Male,IA,Annual Physical,False,False,True,False,False,False,True"
-"72,Female,MN,Cardiology Consult,False,False,False,True,True,False,False"
-"45,Female,IA,Surgical Consult,False,False,False,False,False,True,False"
-"53,Male,IN,Urinary Issue,False,False,False,True,False,False,False"
-"51,Female,NE,Ear Infection,False,True,False,False,False,False,False"
-"37,Female,MI,Back Pain,True,False,False,False,False,False,False"
-"60,Female,WI,Surgical Consult,True,False,True,False,False,True,False"
-"31,Female,IN,Surgical Consult,False,False,False,False,True,False,False"
-"46,Other,OH,Fracture Evaluation,True,False,False,False,False,False,False"
-"58,Female,IL,Annual Physical,True,False,False,False,True,False,False"
-"55,Female,IA,Chest Pain,False,False,False,False,False,False,False"
-"78,Female,OH,Sports Injury,False,True,False,False,False,True,False"
-"31,Female,IL,GI Complaint,True,True,False,True,False,False,True"
-"48,Male,OH,Skin Rash,True,False,False,False,False,False,True"
-"40,Male,IN,Urinary Issue,False,False,False,False,False,False,False"
-"51,Female,IN,Skin Rash,False,True,False,False,True,False,False"
-"51,Female,WI,Annual Physical,False,False,False,False,True,False,False"
-"49,Female,WI,GI Complaint,False,True,False,False,False,False,False"
-"46,Other,IL,Medication Refill,False,True,False,False,False,False,False"
-"67,Female,WI,Physical Therapy,True,False,False,False,False,False,False"
-"56,Male,IL,Urinary Issue,True,False,False,False,False,False,False"
-"71,Male,IN,Cardiology Consult,True,True,False,False,False,False,False"
-"44,Male,WI,Prenatal Visit,True,False,False,True,False,True,False"
-"58,Female,MN,Urinary Issue,True,False,False,True,True,False,False"
-"58,Female,ND,Chest Pain,False,False,False,False,False,True,False"
-"42,Female,SD,Back Pain,True,False,False,False,False,False,False"
-"10,Male,MN,Prenatal Visit,False,True,False,True,False,True,False"
-"43,Female,SD,Ear Infection,False,True,False,False,False,False,False"
-"54,Male,WI,GI Complaint,False,False,False,False,False,False,False"
-"66,Female,OH,Mental Health,False,False,False,True,False,False,False"
-"26,Female,IN,Urinary Issue,False,False,False,False,True,True,False"
-"29,Female,IN,Sports Injury,False,False,False,False,False,True,False"
-"43,Female,IL,Surgical Consult,True,True,False,False,False,False,False"
-"58,Other,ND,Follow-up Visit,False,False,False,False,False,False,True"
-"38,Female,MI,Back Pain,True,False,False,False,False,False,False"
-"68,Female,IL,Cardiology Consult,False,False,False,False,False,False,False"
-"37,Male,OH,Skin Rash,False,True,False,False,False,True,False"
-"70,Female,IN,Cough/Fever,False,False,False,True,False,False,False"
-"50,Male,OH,Checkup,False,False,False,False,True,False,False"
-"40,Female,IN,Fracture Evaluation,False,False,False,False,True,False,True"
-"64,Female,OH,Checkup,False,False,False,False,False,False,False"
-"45,Male,WI,Follow-up Visit,True,True,False,False,True,True,True"
-"41,Female,IA,Chest Pain,False,True,False,False,False,False,False"
-"35,Male,OH,Ear Infection,False,False,False,True,False,True,True"
-"40,Other,MN,Medication Refill,False,True,True,False,False,False,False"
-"64,Male,WI,Cough/Fever,True,False,False,False,False,False,False"
-"84,Female,OH,Medication Refill,False,False,False,False,True,False,False"
-"58,Male,MI,Skin Rash,True,True,False,False,False,False,False"
-"53,Female,IN,Ear Infection,False,False,False,False,False,False,True"
-"57,Male,OH,Physical Therapy,False,False,True,False,False,False,False"
-"53,Male,OH,Diabetes Management,False,True,False,False,False,False,False"
-"63,Male,SD,Chest Pain,False,False,False,False,False,False,True"
-"28,Female,OH,Neurology Referral,False,False,False,False,False,False,False"
-"46,Male,MN,Surgical Consult,False,False,True,False,False,True,True"
-"52,Female,IN,Prenatal Visit,False,False,False,False,False,True,False"
-"24,Male,MN,Annual Physical,True,True,False,False,False,False,False"
-"39,Male,IA,Fracture Evaluation,True,False,False,False,True,False,False"
-"95,Male,MN,Sports Injury,True,False,True,False,False,True,False"
-"35,Female,OH,Checkup,False,False,False,True,False,False,False"
-"47,Female,IA,Skin Rash,False,False,False,False,False,False,False"
-"61,Male,OH,Cough/Fever,False,False,True,False,False,True,False"
-"37,Female,IL,Mental Health,False,True,True,False,False,False,False"
-"46,Male,IA,Chest Pain,True,True,False,False,False,False,True"
-"41,Male,MI,Cough/Fever,True,False,False,False,False,False,False"
-"31,Male,IN,Cough/Fever,False,True,False,False,False,False,False"
-"50,Male,IL,Chest Pain,True,True,False,False,False,False,False"
-"58,Male,WI,Mental Health,False,False,False,False,False,False,True"
-"35,Female,MI,Prenatal Visit,False,False,False,False,False,True,False"
-"54,Female,OH,GI Complaint,True,False,False,False,False,False,False"
-"54,Male,MN,Physical Therapy,True,False,False,False,True,True,False"
-"57,Male,NE,Fracture Evaluation,True,True,False,False,False,False,False"
-"54,Female,OH,Neurology Referral,False,False,False,False,False,False,False"
-"57,Male,MN,Cough/Fever,False,True,False,False,False,False,False"
-"51,Female,OH,Sports Injury,False,False,False,False,False,False,False"
-"61,Male,OH,Sports Injury,False,True,False,False,False,False,False"
-"47,Male,MI,Cardiology Consult,False,False,False,False,False,False,False"
-"75,Male,WI,Cardiology Consult,True,False,False,False,False,False,False"
-"61,Male,MN,Medication Refill,True,False,False,False,False,False,False"
-"49,Female,WI,Neurology Referral,False,False,False,False,False,False,False"
-"10,Female,IL,Surgical Consult,False,False,False,True,False,False,False"
-"43,Male,MN,Prenatal Visit,False,False,False,False,False,False,False"
-"59,Female,IL,Cardiology Consult,False,False,False,False,False,False,False"
-"36,Male,MN,Annual Physical,False,True,False,False,False,False,False"
-"31,Female,IL,Surgical Consult,True,False,False,False,False,False,True"
-"39,Female,MN,Fracture Evaluation,False,True,False,False,False,False,False"
-"48,Female,ND,Prenatal Visit,True,False,False,False,False,False,True"
-"59,Female,MI,Back Pain,True,False,False,True,False,False,False"
-"36,Male,IN,Annual Physical,False,False,False,True,False,False,False"
-"41,Female,WI,Physical Therapy,False,False,False,False,False,False,False"
-"63,Male,MI,GI Complaint,False,False,False,True,False,False,False"
-"39,Male,MN,Cough/Fever,False,False,False,False,False,False,False"
-"69,Male,IN,Cardiology Consult,True,True,True,False,True,False,False"
-"77,Female,IL,Physical Therapy,False,False,False,False,True,False,False"
-"48,Female,OH,Skin Rash,True,False,True,False,False,False,True"
-"65,Female,MI,Sports Injury,True,False,False,True,False,False,False"
-"56,Male,MI,Chest Pain,True,False,False,False,False,False,False"
-"25,Male,MN,Sports Injury,False,False,False,True,False,True,False"
-"62,Male,IN,Fracture Evaluation,False,True,False,False,False,False,False"
-"54,Female,MI,Checkup,False,False,False,True,False,False,False"
-"11,Male,MN,Diabetes Management,False,False,False,True,False,False,False"
-"36,Male,MI,Mental Health,False,False,False,False,False,False,False"
-"61,Female,MI,Diabetes Management,False,True,False,False,False,False,False"
-"41,Female,SD,Mental Health,False,False,False,False,False,False,False"
-"51,Female,MI,Neurology Referral,False,False,False,False,False,False,True"
-"59,Female,MI,Cough/Fever,True,False,False,False,True,False,False"
-"59,Female,MI,Follow-up Visit,False,False,True,False,False,False,False"
-"49,Male,IL,Surgical Consult,False,False,False,False,False,False,False"
-"41,Female,IN,Checkup,False,False,True,False,False,True,False"
-"59,Female,ND,Urinary Issue,True,False,False,True,False,False,False"
-"52,Male,IL,Prenatal Visit,False,False,False,True,False,False,False"
-"74,Female,WI,Cough/Fever,False,False,False,False,False,False,False"
-"62,Female,ND,Annual Physical,False,False,False,False,True,False,False"
-"59,Female,SD,Mental Health,True,False,False,True,True,False,False"
-"52,Female,WI,Prenatal Visit,False,True,False,False,False,False,False"
-"54,Female,OH,Diabetes Management,False,False,False,False,False,False,False"
-"39,Female,IA,Skin Rash,False,False,False,False,False,True,False"
-"50,Male,OH,Ear Infection,False,False,False,False,False,False,False"
-"36,Female,WI,Chest Pain,True,False,False,True,False,False,False"
-"25,Male,MN,Chest Pain,True,True,False,True,False,True,False"
-"55,Male,OH,Fracture Evaluation,False,False,False,False,True,False,False"
-"33,Male,WI,Ear Infection,False,False,True,False,False,False,False"
-"56,Other,IA,Chest Pain,False,False,False,True,False,True,False"
-"76,Female,MN,Ear Infection,True,False,False,True,False,False,False"
-"55,Female,IA,Skin Rash,False,False,False,False,False,False,True"
-"55,Female,WI,Back Pain,False,False,False,False,False,False,False"
-"57,Male,MN,Skin Rash,False,False,True,True,False,False,True"
-"52,Female,NE,Neurology Referral,True,True,False,False,True,False,False"
-"69,Female,MN,Chest Pain,False,False,False,False,False,False,False"
-"67,Female,IL,Skin Rash,False,False,True,True,False,False,False"
-"43,Male,OH,Skin Rash,True,True,False,True,False,False,False"
-"42,Male,MN,Prenatal Visit,False,False,False,False,False,False,False"
-"30,Female,IN,Annual Physical,True,False,True,False,False,False,False"
-"49,Other,IL,Fracture Evaluation,True,False,False,False,False,False,True"
-"43,Male,MN,Back Pain,True,False,False,False,False,False,False"
-"60,Male,NE,Follow-up Visit,False,False,False,False,True,False,True"
-"73,Female,IA,Chest Pain,False,False,False,False,False,False,False"
-"34,Female,MI,Sports Injury,False,True,False,False,False,False,False"
-"44,Male,NE,Urinary Issue,False,True,False,False,False,False,False"
-"50,Male,IL,Cardiology Consult,False,False,False,False,False,False,False"
-"38,Female,IL,Skin Rash,False,False,False,False,False,False,False"
-"63,Female,IL,Cough/Fever,False,False,False,False,False,False,True"
-"43,Female,OH,Urinary Issue,False,False,False,False,False,False,False"
-"53,Male,IA,Mental Health,False,False,False,False,True,False,False"
-"25,Other,OH,Neurology Referral,True,False,False,False,False,True,False"
-"58,Female,ND,Ear Infection,False,False,False,False,True,False,False"
-"58,Female,NE,Diabetes Management,False,True,False,False,True,False,False"
-"51,Male,IL,Cough/Fever,False,False,False,False,False,True,False"
-"80,Male,OH,Physical Therapy,False,True,True,True,True,False,False"
-"48,Female,MN,Fracture Evaluation,True,False,True,False,False,False,False"
-"53,Other,MI,Annual Physical,False,False,False,False,False,False,False"
-"23,Male,WI,Urinary Issue,True,False,False,False,True,True,True"
-"68,Female,WI,Checkup,True,False,True,False,False,False,False"
-"58,Female,IN,Surgical Consult,True,False,False,False,False,False,False"
-"41,Female,MN,Skin Rash,True,True,False,False,True,False,False"
-"75,Male,MI,Annual Physical,False,True,False,True,True,False,False"
-"63,Female,IN,Ear Infection,False,True,False,False,False,True,False"
-"40,Female,OH,Fracture Evaluation,False,False,False,False,False,True,False"
-"33,Male,SD,Ear Infection,True,True,False,False,False,False,False"
-"42,Female,NE,Neurology Referral,False,False,False,False,False,False,False"
-"62,Female,IL,Medication Refill,False,False,False,False,False,False,False"
-"50,Male,OH,Annual Physical,False,False,False,False,False,False,False"
-"48,Female,SD,GI Complaint,False,False,False,True,False,False,False"
-"84,Male,IN,Checkup,False,False,False,True,False,False,False"
-"36,Male,IN,Fracture Evaluation,False,False,False,False,False,False,False"
-"54,Other,MI,Fracture Evaluation,True,False,False,False,False,False,False"
-"68,Male,ND,Cough/Fever,False,False,False,False,False,False,False"
-"35,Male,MN,Neurology Referral,True,False,True,False,False,False,False"
-"67,Female,NE,Checkup,False,False,False,False,True,True,False"
-"49,Female,MN,Surgical Consult,False,False,False,False,False,False,False"
-"38,Male,IA,Urinary Issue,False,False,False,False,False,False,False"
-"65,Female,OH,Chest Pain,False,False,False,False,False,False,False"
-"47,Female,WI,GI Complaint,False,False,False,False,False,True,False"
-"70,Male,MI,Neurology Referral,False,False,False,True,False,True,False"
-"41,Female,IA,Urinary Issue,False,True,False,False,False,False,False"
-"27,Female,MI,GI Complaint,True,False,False,False,False,False,False"
-"26,Male,OH,Cardiology Consult,False,False,False,False,False,False,False"
-"17,Male,IL,Neurology Referral,False,True,False,False,False,False,False"
-"40,Male,WI,Skin Rash,True,False,False,False,False,False,False"
-"28,Male,MN,Back Pain,False,False,False,False,False,False,False"
-"39,Male,IL,Medication Refill,False,True,False,False,False,False,False"
-"42,Female,MN,Cardiology Consult,True,True,False,False,False,False,False"
-"57,Female,SD,Diabetes Management,False,False,True,False,False,True,False"
-"57,Female,MI,Neurology Referral,False,False,True,True,False,False,False"
-"67,Male,NE,Prenatal Visit,False,False,False,False,False,False,False"
-"60,Female,MI,Sports Injury,False,False,False,True,False,False,False"
-"44,Male,WI,Annual Physical,False,False,False,False,True,True,False"
-"42,Male,IN,Annual Physical,True,True,False,False,False,False,False"
-"62,Female,IL,Skin Rash,False,False,False,False,False,False,False"
-"47,Female,MN,Fracture Evaluation,False,False,False,False,False,False,False"
-"56,Male,IN,Checkup,False,False,False,True,False,False,False"
-"56,Female,WI,Back Pain,False,False,False,False,False,False,False"
-"47,Female,MN,Surgical Consult,True,False,False,True,False,False,False"
-"48,Other,IA,Ear Infection,True,True,False,False,False,False,False"
-"42,Female,NE,Skin Rash,False,False,False,False,False,False,False"
-"39,Male,MN,Cough/Fever,True,True,False,False,False,False,False"
-"72,Female,MN,Chest Pain,False,True,False,False,False,False,False"
-"28,Male,OH,Checkup,True,False,False,False,False,False,True"
-"40,Female,ND,Medication Refill,False,True,False,False,False,True,False"
-"62,Female,IL,Skin Rash,False,False,False,False,False,False,False"
-"47,Female,OH,Prenatal Visit,True,False,False,False,False,False,False"
-"51,Female,IL,Cardiology Consult,False,False,False,True,False,False,False"
-"38,Male,IL,Sports Injury,False,False,False,False,False,True,False"
-"50,Male,WI,Physical Therapy,True,True,False,False,True,False,True"
-"45,Female,IN,Physical Therapy,True,False,False,False,False,False,False"
-"51,Female,MN,Sports Injury,False,True,False,False,False,False,True"
-"58,Female,IA,Urinary Issue,False,True,False,False,False,False,False"
-"53,Female,WI,Urinary Issue,True,False,False,False,False,False,False"
-"57,Other,OH,Surgical Consult,False,False,False,False,False,True,False"
-"59,Female,MN,Prenatal Visit,True,False,False,False,False,False,False"
-"58,Female,OH,Ear Infection,False,False,False,False,False,False,False"
-"56,Female,IN,Annual Physical,False,True,False,False,False,False,False"
-"53,Female,IL,Diabetes Management,False,False,False,True,False,False,False"
-"67,Female,IN,GI Complaint,False,False,False,False,False,False,False"
-"68,Female,IA,Follow-up Visit,True,False,False,False,False,False,False"
-"24,Male,MI,Checkup,False,False,False,True,False,False,True"
-"56,Male,OH,Follow-up Visit,False,False,False,False,False,False,False"
-"44,Male,OH,Annual Physical,True,True,False,False,True,False,False"
-"38,Female,MN,Skin Rash,False,True,False,False,False,False,False"
-"63,Female,IA,Fracture Evaluation,True,False,False,False,True,False,False"
-"45,Female,OH,Checkup,False,False,False,False,False,False,False"
-"45,Female,OH,Cough/Fever,False,True,False,True,False,False,False"
-"55,Female,IN,Annual Physical,False,False,False,False,False,False,False"
-"33,Male,IN,Cough/Fever,False,True,False,False,False,False,False"
-"44,Female,OH,Chest Pain,False,False,False,False,False,False,False"
-"63,Male,IA,Skin Rash,False,False,False,False,False,False,False"
-"53,Other,MI,GI Complaint,True,False,False,False,True,False,False"
-"36,Female,MN,Mental Health,False,False,False,False,False,False,False"
-"43,Female,IA,Back Pain,False,False,False,False,False,False,False"
-"23,Female,IN,Fracture Evaluation,False,False,False,False,False,False,False"
-"32,Male,OH,Cough/Fever,False,False,False,False,False,False,False"
-"72,Female,OH,Fracture Evaluation,False,True,False,False,False,False,False"
-"52,Female,MI,Sports Injury,True,False,False,True,False,False,True"
-"82,Female,IA,Prenatal Visit,False,False,False,False,True,False,False"
-"38,Female,IL,Physical Therapy,False,False,False,False,False,False,False"
-"36,Male,IA,Back Pain,False,False,False,False,True,False,False"
-"56,Male,MN,Fracture Evaluation,False,False,False,False,False,False,False"
-"42,Male,ND,Mental Health,False,False,False,False,False,False,True"
-"62,Female,MN,GI Complaint,False,True,False,False,False,False,False"
-"59,Male,WI,Sports Injury,True,False,False,False,False,False,False"
-"53,Female,OH,Cough/Fever,False,True,True,False,False,False,False"
-"34,Male,SD,GI Complaint,False,False,False,False,False,False,False"
-"41,Female,MI,Follow-up Visit,False,False,True,False,False,False,True"
-"51,Male,IL,Medication Refill,True,False,False,False,True,True,False"
-"34,Other,WI,Back Pain,False,False,False,False,False,False,False"
-"43,Female,NE,Cardiology Consult,False,False,False,False,False,False,False"
-"66,Male,ND,Physical Therapy,False,False,False,True,True,False,False"
-"67,Male,NE,Cardiology Consult,True,True,False,False,False,False,True"
-"40,Male,OH,Surgical Consult,False,False,False,False,False,False,False"
-"50,Other,NE,Fracture Evaluation,True,False,False,False,False,False,False"
-"43,Other,IL,Follow-up Visit,False,False,False,False,False,True,False"
-"54,Male,MN,Follow-up Visit,False,True,False,True,False,False,False"
-"34,Male,WI,Checkup,True,False,False,False,False,True,False"
-"26,Male,IN,Urinary Issue,True,False,False,False,False,False,False"
-"46,Male,MN,Fracture Evaluation,False,True,False,False,True,False,False"
-"45,Female,OH,GI Complaint,False,True,False,False,False,False,False"
-"62,Male,SD,Checkup,False,False,False,False,True,False,False"
-"55,Female,IL,Urinary Issue,True,False,False,False,False,False,False"
-"43,Male,MI,Medication Refill,False,False,False,False,False,False,False"
-"74,Female,IL,Urinary Issue,True,True,False,False,False,False,False"
-"63,Male,IL,Cough/Fever,False,True,True,False,False,False,False"
-"54,Male,NE,Medication Refill,False,False,False,False,True,True,False"
-"45,Male,NE,Sports Injury,False,False,True,False,True,False,True"
-"60,Male,OH,Fracture Evaluation,False,True,False,False,False,False,True"
-"42,Male,IL,Sports Injury,False,False,False,False,False,False,False"
-"60,Female,IL,Urinary Issue,True,True,False,False,False,False,False"
-"63,Male,WI,Cardiology Consult,False,False,False,False,True,False,False"
-"58,Female,IN,Skin Rash,False,False,False,True,False,False,False"
-"57,Female,IL,Skin Rash,True,True,False,False,True,False,False"
-"35,Male,MN,Chest Pain,True,False,False,False,False,False,False"
-"33,Male,MI,Chest Pain,False,True,False,True,False,False,False"
-"24,Female,SD,Back Pain,False,False,False,False,False,False,False"
-"20,Female,OH,Prenatal Visit,False,True,True,False,False,False,False"
-"58,Male,OH,Urinary Issue,False,False,False,False,False,True,False"
-"36,Female,IL,Skin Rash,True,False,False,False,False,False,False"
-"43,Female,MI,Sports Injury,False,False,False,True,False,False,False"
-"58,Male,WI,Ear Infection,False,False,False,False,False,False,False"
-"56,Male,WI,Cardiology Consult,True,False,True,False,False,False,False"
-"59,Female,MI,Prenatal Visit,False,False,False,False,False,True,False"
-"57,Male,MI,Fracture Evaluation,True,False,False,False,False,False,False"
-"51,Male,MN,Sports Injury,False,False,True,False,False,False,True"
-"44,Female,OH,Chest Pain,False,True,False,False,True,False,False"
-"48,Female,ND,Sports Injury,True,False,True,False,False,True,False"
-"41,Female,WI,Prenatal Visit,False,False,False,False,False,False,False"
-"61,Female,WI,GI Complaint,False,False,False,False,False,False,False"
-"37,Female,ND,Cough/Fever,False,False,False,False,False,False,False"
-"86,Male,MI,Follow-up Visit,True,True,True,False,False,False,True"
-"57,Other,IL,Physical Therapy,True,True,False,False,True,True,False"
-"59,Male,MN,Medication Refill,False,True,False,False,False,False,False"
-"66,Female,OH,Medication Refill,True,False,False,False,False,False,False"
-"67,Female,IL,Ear Infection,False,True,False,False,False,False,True"
-"23,Female,IN,Surgical Consult,True,False,False,False,False,False,False"
-"39,Male,MI,Urinary Issue,True,True,False,False,False,False,False"
-"48,Female,NE,Sports Injury,False,True,False,False,False,True,False"
-"19,Male,IA,Diabetes Management,False,False,False,False,False,False,True"
-"63,Male,WI,Surgical Consult,False,False,False,False,False,False,False"
-"53,Other,SD,Diabetes Management,False,False,False,False,True,False,False"
-"41,Male,MI,Cough/Fever,False,False,False,False,True,False,True"
-"66,Male,MN,Back Pain,True,False,False,False,True,True,False"
-"75,Male,IL,Annual Physical,False,True,False,True,False,False,False"
-"78,Male,MI,Cough/Fever,False,True,False,True,True,False,False"
-"36,Male,IL,Skin Rash,False,True,False,False,False,False,False"
-"62,Female,IN,Fracture Evaluation,True,False,False,False,False,False,False"
-"63,Male,IL,Follow-up Visit,False,True,False,False,False,True,False"
-"52,Male,OH,Skin Rash,False,False,False,True,False,False,False"
-"33,Male,MN,Diabetes Management,False,False,False,False,False,False,False"
-"66,Female,IA,Medication Refill,False,False,False,False,False,False,False"
-"39,Female,MN,Checkup,True,False,False,False,False,False,False"
-"81,Male,ND,Physical Therapy,True,False,False,False,False,False,False"
-"48,Female,IN,Diabetes Management,False,False,False,False,False,True,False"
-"47,Male,OH,Back Pain,False,True,True,False,False,False,False"
-"56,Male,NE,Sports Injury,False,False,False,False,False,False,False"
-"33,Female,OH,Urinary Issue,False,False,False,True,False,False,False"
-"56,Male,WI,Annual Physical,False,False,False,False,False,True,False"
-"59,Male,MI,Physical Therapy,False,True,False,False,True,False,False"
-"39,Female,WI,Cough/Fever,True,False,False,True,False,True,False"
-"60,Male,MN,Annual Physical,True,False,False,True,False,False,False"
-"56,Male,MN,GI Complaint,False,False,False,False,False,False,False"
-"38,Male,NE,Surgical Consult,False,False,False,False,False,False,False"
-"42,Male,NE,Physical Therapy,False,True,False,False,False,False,True"
-"68,Male,WI,Cough/Fever,False,True,False,False,False,True,False"
-"60,Female,IN,Ear Infection,False,False,False,True,False,False,False"
-"61,Female,MI,Diabetes Management,False,False,False,False,False,False,False"
-"45,Male,NE,Physical Therapy,True,False,False,True,True,False,False"
-"10,Male,WI,Neurology Referral,False,False,False,True,True,False,False"
-"35,Male,IA,Physical Therapy,False,True,False,False,False,False,False"
-"51,Male,MN,Annual Physical,True,True,False,False,False,False,False"
-"65,Male,WI,Neurology Referral,True,True,False,False,False,False,False"
-"28,Female,WI,Skin Rash,False,True,False,False,False,True,False"
-"43,Female,WI,Skin Rash,True,False,False,False,False,False,False"
-"45,Female,IA,Sports Injury,False,False,True,False,False,False,True"
-"74,Male,IL,Skin Rash,False,False,False,False,False,False,False"
-"23,Female,WI,Ear Infection,True,False,False,False,False,False,False"
-"46,Female,IN,Urinary Issue,False,False,False,False,False,False,False"
-"42,Male,WI,Urinary Issue,True,True,False,False,False,False,False"
-"62,Female,IN,Sports Injury,False,True,False,True,False,False,False"
-"27,Male,IN,Chest Pain,False,False,False,False,True,True,False"
-"34,Female,IN,Sports Injury,False,False,False,False,False,False,False"
-"47,Female,IA,Surgical Consult,False,True,False,False,False,False,False"
-"35,Female,OH,Cardiology Consult,True,False,False,False,False,False,False"
-"65,Female,IA,Checkup,True,True,False,False,False,False,False"
-"27,Male,MI,Mental Health,True,False,True,False,False,True,False"
-"54,Female,MN,Cardiology Consult,False,False,False,False,True,False,False"
-"26,Male,OH,Annual Physical,True,True,False,False,False,False,False"
-"43,Female,IA,Back Pain,False,False,False,False,False,False,False"
-"21,Male,WI,Annual Physical,False,False,False,False,False,False,False"
-"38,Male,NE,Surgical Consult,True,False,True,False,False,False,True"
-"40,Female,IL,Diabetes Management,False,True,False,False,False,False,False"
-"69,Male,ND,Checkup,False,False,True,False,False,False,False"
-"44,Male,MI,Checkup,False,False,True,False,False,False,False"
-"42,Female,IN,Diabetes Management,True,False,False,False,False,False,False"
-"38,Female,IA,Mental Health,False,False,False,False,False,False,False"
-"58,Other,IN,Fracture Evaluation,False,False,False,False,True,False,False"
-"38,Female,SD,Skin Rash,False,False,False,False,False,False,False"
-"36,Male,WI,Cough/Fever,False,False,True,False,False,False,False"
-"66,Female,IL,GI Complaint,False,False,False,True,False,False,False"
-"56,Male,IL,Fracture Evaluation,True,False,False,False,False,False,True"
-"41,Female,IN,Prenatal Visit,False,False,True,False,False,False,True"
-"63,Female,IL,Skin Rash,True,False,False,False,False,False,False"
-"45,Male,MI,Prenatal Visit,False,False,False,False,True,False,False"
-"47,Male,MN,Physical Therapy,True,False,False,False,True,False,False"
-"59,Female,MI,Mental Health,False,True,False,False,True,False,True"
-"58,Male,MI,Mental Health,False,False,False,False,False,True,False"
-"66,Female,OH,Ear Infection,False,True,False,False,False,False,False"
-"10,Female,WI,Cough/Fever,True,True,False,False,True,False,False"
-"61,Male,OH,Ear Infection,True,False,False,False,False,False,False"
-"52,Other,IL,Chest Pain,False,True,False,False,False,False,False"
-"24,Male,MN,Checkup,True,True,False,False,False,True,False"
-"64,Female,IL,Back Pain,True,False,False,False,True,False,False"
-"54,Male,IN,Mental Health,False,False,False,False,False,False,False"
-"47,Female,SD,Skin Rash,False,False,False,False,True,False,True"
-"27,Female,ND,Medication Refill,False,False,False,False,False,True,True"
-"57,Female,IL,Mental Health,False,False,False,False,False,True,False"
+﻿,age,gender,hospital_state,reason_for_visit,lab_required,imaging_required,diabetic,obese,smoker,hypertensive,asthmatic
+1,30,Female,ND,Diabetes Management,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+2,37,Female,NE,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+3,68,Male,WI,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+4,78,Male,IA,GI Complaint,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+5,69,Other,IL,Checkup,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+6,40,Female,MI,GI Complaint,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+7,47,Male,IA,Diabetes Management,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+8,53,Male,ND,Medication Refill,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+9,57,Female,ND,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+10,56,Female,SD,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+11,32,Male,OH,Physical Therapy,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+12,31,Male,OH,Annual Physical,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+13,23,Male,IN,Back Pain,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+14,52,Female,IA,Ear Infection,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+15,57,Male,SD,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+16,58,Male,MN,GI Complaint,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+17,57,Male,OH,Neurology Referral,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+18,45,Female,NE,Sports Injury,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+19,47,Female,WI,Fracture Evaluation,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+20,58,Other,MI,Annual Physical,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+21,64,Female,IL,Checkup,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+22,52,Female,WI,Physical Therapy,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+23,24,Male,NE,Fracture Evaluation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+24,36,Male,WI,Sports Injury,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+25,48,Male,IN,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+26,68,Female,MI,Urinary Issue,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+27,52,Female,IL,Urinary Issue,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+28,44,Female,WI,Physical Therapy,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+29,57,Female,WI,Ear Infection,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+30,62,Female,IN,Back Pain,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+31,67,Male,IN,Checkup,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+32,51,Other,WI,Surgical Consult,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+33,58,Female,ND,Sports Injury,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+34,33,Male,MN,GI Complaint,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+35,47,Female,IA,Neurology Referral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+36,72,Male,IA,Fracture Evaluation,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+37,53,Female,IN,Medication Refill,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+38,23,Female,MI,Follow-up Visit,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+39,75,Female,MI,Diabetes Management,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+40,49,Male,NE,Neurology Referral,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+41,43,Female,WI,Prenatal Visit,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+42,46,Female,IA,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+43,53,Female,IL,Physical Therapy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+44,50,Male,MI,Diabetes Management,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+45,51,Male,NE,Diabetes Management,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+46,54,Male,SD,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+47,77,Female,WI,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+48,60,Male,IL,Physical Therapy,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+49,46,Female,WI,Cough/Fever,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+50,40,Male,OH,Prenatal Visit,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+51,74,Female,WI,Ear Infection,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+52,42,Female,IA,Surgical Consult,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+53,81,Male,NE,Medication Refill,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+54,54,Female,IN,Diabetes Management,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+55,63,Male,IA,Surgical Consult,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+56,13,Male,SD,Urinary Issue,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+57,65,Female,IN,Urinary Issue,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+58,52,Male,IN,Physical Therapy,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+59,22,Female,WI,Medication Refill,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+60,52,Female,OH,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+61,65,Male,IN,Follow-up Visit,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+62,59,Female,MN,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+63,57,Male,WI,Cough/Fever,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+64,58,Male,MI,Medication Refill,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+65,56,Female,OH,Checkup,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+66,64,Female,OH,Checkup,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+67,37,Female,NE,Cardiology Consult,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+68,41,Male,MI,GI Complaint,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+69,46,Male,IL,Sports Injury,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+70,53,Male,WI,Ear Infection,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+71,59,Male,NE,Surgical Consult,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+72,53,Male,IN,Sports Injury,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+73,46,Female,SD,Fracture Evaluation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+74,46,Other,MI,Physical Therapy,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+75,56,Female,IA,Cardiology Consult,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+76,32,Male,MI,Back Pain,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+77,39,Female,IL,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+78,56,Female,MN,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+79,28,Female,WI,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+80,46,Female,OH,Surgical Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+81,49,Female,IN,GI Complaint,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+82,74,Female,MN,Mental Health,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+83,57,Male,MN,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+84,41,Male,MI,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+85,64,Female,IL,Chest Pain,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE
+86,65,Male,MI,Cough/Fever,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+87,63,Male,SD,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+88,33,Male,MN,Sports Injury,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+89,43,Female,IA,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+90,65,Male,IN,Checkup,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+91,45,Male,IL,Skin Rash,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+92,64,Female,OH,Back Pain,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+93,64,Other,IL,GI Complaint,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+94,49,Female,MI,Neurology Referral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+95,31,Female,MN,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+96,48,Female,MI,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+97,39,Male,SD,Physical Therapy,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+98,32,Male,MN,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+99,69,Male,WI,Checkup,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+100,53,Female,IL,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+101,41,Female,IA,Cough/Fever,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+102,57,Female,IA,Surgical Consult,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+103,45,Male,OH,Diabetes Management,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+104,37,Male,OH,Skin Rash,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+105,47,Other,IL,Neurology Referral,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+106,65,Female,IL,Back Pain,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+107,46,Male,IA,Chest Pain,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+108,62,Male,OH,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+109,56,Female,IA,Physical Therapy,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+110,61,Male,NE,Back Pain,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+111,55,Male,OH,Checkup,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+112,56,Male,ND,Urinary Issue,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+113,60,Male,OH,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+114,40,Female,MN,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+115,57,Female,NE,Urinary Issue,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+116,57,Female,SD,Urinary Issue,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+117,28,Male,WI,Cough/Fever,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+118,63,Male,IN,Physical Therapy,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+119,54,Female,OH,Urinary Issue,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+120,33,Female,IL,Urinary Issue,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+121,55,Female,WI,Urinary Issue,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+122,59,Female,MN,Physical Therapy,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+123,48,Female,ND,Checkup,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+124,60,Male,NE,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+125,47,Male,WI,Ear Infection,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+126,36,Male,IL,Urinary Issue,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+127,35,Male,OH,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+128,39,Male,IL,Diabetes Management,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+129,46,Other,IN,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+130,56,Male,IN,Ear Infection,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+131,71,Female,OH,Sports Injury,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+132,54,Male,SD,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+133,21,Female,IA,Ear Infection,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+134,41,Male,IL,Mental Health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+135,62,Female,OH,Neurology Referral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+136,52,Female,MI,Prenatal Visit,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+137,58,Female,OH,Physical Therapy,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+138,36,Female,MI,Ear Infection,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+139,37,Female,IL,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+140,66,Male,IA,Ear Infection,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+141,95,Female,IN,Mental Health,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+142,34,Male,NE,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+143,77,Female,IN,Follow-up Visit,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+144,43,Female,SD,Neurology Referral,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+145,39,Male,SD,Physical Therapy,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+146,30,Female,IN,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+147,79,Female,MI,Chest Pain,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE
+148,53,Other,MI,Mental Health,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+149,68,Female,MN,Annual Physical,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+150,68,Female,OH,Mental Health,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+151,54,Male,SD,Ear Infection,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+152,46,Female,MI,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+153,74,Female,MN,Annual Physical,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+154,47,Male,SD,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+155,82,Female,IA,Back Pain,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+156,34,Female,MN,Mental Health,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+157,71,Female,IA,Physical Therapy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+158,58,Male,IN,Sports Injury,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+159,34,Female,MN,Ear Infection,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+160,31,Female,IA,Skin Rash,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+161,46,Male,MN,GI Complaint,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+162,30,Male,MI,Fracture Evaluation,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+163,29,Male,IL,Cardiology Consult,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+164,44,Female,SD,Checkup,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+165,52,Male,MN,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+166,46,Male,IL,Back Pain,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+167,45,Male,MN,Urinary Issue,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+168,50,Male,WI,Prenatal Visit,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+169,61,Male,OH,Annual Physical,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+170,62,Male,MN,Cough/Fever,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+171,37,Male,NE,Annual Physical,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+172,43,Male,ND,Follow-up Visit,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+173,48,Female,OH,Sports Injury,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+174,54,Male,NE,GI Complaint,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+175,33,Male,OH,Ear Infection,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+176,77,Female,MI,Checkup,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+177,65,Female,IN,Follow-up Visit,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE
+178,45,Female,MN,Surgical Consult,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+179,47,Male,WI,Back Pain,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+180,18,Male,IL,Fracture Evaluation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+181,59,Male,OH,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+182,30,Male,IL,Cough/Fever,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+183,52,Female,SD,Follow-up Visit,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+184,62,Female,ND,Checkup,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+185,77,Male,IA,Back Pain,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+186,55,Female,MI,Sports Injury,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+187,68,Male,IA,GI Complaint,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+188,48,Female,ND,Chest Pain,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+189,32,Female,IN,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+190,68,Male,OH,Physical Therapy,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+191,40,Male,NE,Cough/Fever,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+192,54,Male,NE,Skin Rash,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+193,86,Female,IL,Urinary Issue,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+194,58,Male,IN,Diabetes Management,TRUE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+195,30,Male,MI,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+196,69,Female,MN,GI Complaint,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+197,52,Male,MI,GI Complaint,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+198,47,Male,MI,GI Complaint,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+199,53,Male,WI,Mental Health,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+200,66,Female,OH,Back Pain,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+201,92,Male,MN,Medication Refill,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+202,71,Male,IA,Urinary Issue,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+203,75,Male,IL,Prenatal Visit,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+204,35,Other,OH,Physical Therapy,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+205,78,Male,ND,Physical Therapy,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+206,52,Female,IN,Annual Physical,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+207,52,Female,IL,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+208,50,Male,IA,Annual Physical,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+209,63,Male,ND,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+210,55,Female,IN,Medication Refill,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+211,54,Male,NE,Checkup,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+212,53,Female,IA,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+213,58,Male,ND,Follow-up Visit,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+214,62,Male,ND,Checkup,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+215,64,Female,IL,Mental Health,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+216,83,Female,NE,GI Complaint,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+217,48,Male,ND,Diabetes Management,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+218,44,Male,WI,Checkup,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+219,63,Female,MI,Cardiology Consult,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+220,52,Male,MN,Medication Refill,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+221,48,Female,OH,GI Complaint,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+222,44,Female,IN,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+223,53,Male,IL,Sports Injury,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+224,59,Male,IN,Fracture Evaluation,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+225,48,Male,WI,Fracture Evaluation,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+226,77,Female,OH,Mental Health,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+227,44,Female,ND,Mental Health,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+228,38,Male,MI,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+229,30,Male,IN,Checkup,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+230,68,Female,SD,Ear Infection,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+231,39,Female,WI,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+232,76,Female,MN,Neurology Referral,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+233,43,Male,OH,Checkup,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+234,27,Other,OH,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+235,67,Female,IN,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+236,52,Male,NE,Urinary Issue,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+237,28,Female,OH,Diabetes Management,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+238,62,Male,WI,Chest Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+239,56,Female,IA,Urinary Issue,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+240,45,Female,NE,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+241,38,Female,NE,Chest Pain,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+242,62,Male,IN,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+243,50,Female,IA,Chest Pain,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+244,65,Male,MI,Annual Physical,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+245,52,Male,IA,Neurology Referral,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+246,35,Female,SD,Cough/Fever,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+247,44,Other,WI,Neurology Referral,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+248,78,Female,OH,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+249,42,Female,MN,Neurology Referral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+250,43,Female,MN,GI Complaint,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+251,35,Female,IN,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+252,65,Female,MI,Sports Injury,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+253,57,Female,MI,Diabetes Management,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+254,68,Female,MI,Checkup,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+255,25,Female,IA,Physical Therapy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+256,12,Female,MI,Mental Health,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+257,44,Female,MI,Cardiology Consult,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE
+258,43,Male,WI,Mental Health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+259,35,Male,IA,Prenatal Visit,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+260,40,Male,ND,Sports Injury,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+261,58,Male,IL,Checkup,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+262,74,Female,WI,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+263,41,Female,IL,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+264,70,Female,OH,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+265,38,Male,MI,Diabetes Management,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+266,37,Male,SD,Neurology Referral,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+267,60,Male,MN,Sports Injury,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+268,64,Male,WI,Urinary Issue,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+269,20,Male,IN,Cardiology Consult,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+270,34,Male,IL,Medication Refill,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+271,62,Female,IA,Physical Therapy,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+272,55,Male,IA,Physical Therapy,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+273,64,Female,NE,Cardiology Consult,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+274,58,Male,IN,Follow-up Visit,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+275,30,Female,IL,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+276,53,Male,OH,GI Complaint,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+277,58,Female,OH,Physical Therapy,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+278,56,Female,ND,Fracture Evaluation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+279,62,Female,OH,Annual Physical,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+280,49,Male,IL,Urinary Issue,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+281,48,Female,OH,Cardiology Consult,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+282,45,Male,MI,Follow-up Visit,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+283,57,Female,OH,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+284,62,Female,IN,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+285,25,Male,MI,Neurology Referral,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+286,51,Male,WI,Annual Physical,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+287,43,Female,IN,Annual Physical,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+288,65,Male,OH,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+289,47,Male,WI,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+290,78,Other,MN,Neurology Referral,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+291,47,Male,MN,Fracture Evaluation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+292,35,Male,OH,Checkup,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+293,37,Male,MI,Cardiology Consult,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+294,40,Male,OH,Urinary Issue,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+295,49,Male,MI,GI Complaint,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+296,48,Male,IL,Prenatal Visit,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+297,46,Female,SD,Urinary Issue,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+298,59,Female,NE,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+299,46,Female,MN,Fracture Evaluation,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+300,72,Female,IN,Checkup,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+301,62,Male,MN,Follow-up Visit,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+302,51,Male,MI,Fracture Evaluation,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+303,55,Male,OH,Cardiology Consult,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+304,50,Male,IA,Diabetes Management,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+305,10,Other,MI,Chest Pain,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+306,47,Female,MN,Fracture Evaluation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+307,30,Female,WI,Sports Injury,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+308,43,Female,MN,GI Complaint,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+309,25,Male,IL,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+310,68,Male,IA,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+311,63,Male,WI,Urinary Issue,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+312,50,Male,MI,GI Complaint,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+313,23,Male,IL,Neurology Referral,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+314,63,Male,IL,Skin Rash,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+315,50,Female,WI,Medication Refill,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+316,43,Male,MN,Medication Refill,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+317,42,Male,IL,Neurology Referral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+318,26,Male,WI,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+319,52,Female,MI,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+320,56,Female,MN,Surgical Consult,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+321,50,Female,MN,Physical Therapy,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+322,75,Female,WI,Sports Injury,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+323,60,Female,WI,Neurology Referral,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+324,44,Female,ND,Fracture Evaluation,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+325,56,Male,OH,Back Pain,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+326,50,Other,MI,Surgical Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+327,49,Male,ND,Neurology Referral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+328,28,Female,MN,Ear Infection,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+329,69,Male,MN,Ear Infection,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+330,51,Male,MI,Prenatal Visit,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+331,55,Male,NE,Sports Injury,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+332,33,Female,IN,Physical Therapy,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+333,44,Male,MI,Diabetes Management,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+334,37,Male,IA,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+335,49,Female,OH,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+336,38,Male,IL,Fracture Evaluation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+337,41,Female,IA,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+338,56,Male,IN,Back Pain,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+339,66,Female,IN,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+340,42,Female,MN,Urinary Issue,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+341,58,Male,IA,Checkup,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+342,38,Male,IL,Medication Refill,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+343,31,Male,IN,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+344,48,Male,IA,Annual Physical,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+345,47,Male,WI,Sports Injury,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+346,32,Female,OH,Back Pain,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+347,50,Female,IL,Skin Rash,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+348,51,Male,MI,Follow-up Visit,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+349,54,Female,NE,Cough/Fever,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+350,35,Female,ND,Mental Health,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+351,70,Female,IA,Sports Injury,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+352,40,Female,IN,Chest Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+353,34,Male,IN,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+354,40,Male,IN,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+355,49,Male,OH,Surgical Consult,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+356,35,Male,ND,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+357,62,Male,OH,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+358,60,Female,WI,Follow-up Visit,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+359,45,Male,IN,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+360,46,Female,MN,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+361,63,Female,IN,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+362,34,Female,IN,GI Complaint,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+363,42,Male,MI,Neurology Referral,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+364,53,Female,IN,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+365,77,Female,OH,Sports Injury,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+366,13,Male,MI,Surgical Consult,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+367,60,Male,OH,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+368,54,Male,OH,Urinary Issue,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+369,58,Male,OH,Ear Infection,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+370,45,Female,OH,Ear Infection,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+371,73,Male,NE,Checkup,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE
+372,28,Female,IL,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+373,55,Male,MI,Skin Rash,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+374,38,Male,IA,Mental Health,TRUE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+375,60,Female,MN,Neurology Referral,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+376,50,Male,MI,Neurology Referral,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+377,48,Male,MI,Neurology Referral,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+378,59,Female,IL,Physical Therapy,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+379,38,Male,SD,Annual Physical,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+380,35,Male,IN,Surgical Consult,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+381,40,Male,IL,Chest Pain,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+382,79,Male,IL,Sports Injury,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+383,62,Male,NE,Annual Physical,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+384,51,Male,OH,Ear Infection,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+385,45,Female,IN,Skin Rash,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+386,61,Female,WI,Ear Infection,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+387,85,Female,IA,Urinary Issue,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+388,67,Male,IL,Cardiology Consult,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+389,42,Female,IA,Back Pain,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+390,56,Female,IN,Neurology Referral,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+391,35,Female,IN,Cardiology Consult,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+392,69,Female,WI,Checkup,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+393,44,Male,MI,Back Pain,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+394,44,Male,IL,Cough/Fever,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+395,38,Female,IL,Surgical Consult,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+396,43,Female,OH,Checkup,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+397,25,Female,MN,Physical Therapy,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+398,43,Female,OH,Back Pain,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+399,44,Male,OH,Follow-up Visit,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+400,61,Other,MI,Skin Rash,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+401,58,Male,IA,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+402,45,Male,IN,Diabetes Management,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+403,70,Female,OH,Cardiology Consult,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+404,26,Female,IN,Ear Infection,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+405,50,Female,WI,Urinary Issue,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+406,22,Male,ND,GI Complaint,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+407,42,Male,NE,Chest Pain,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+408,48,Female,MI,Medication Refill,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+409,39,Male,IA,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+410,35,Other,IN,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+411,50,Male,ND,Diabetes Management,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+412,28,Female,MN,Sports Injury,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+413,56,Female,SD,Physical Therapy,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+414,37,Female,MN,Diabetes Management,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+415,45,Male,OH,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+416,46,Female,NE,Ear Infection,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+417,56,Female,MI,Medication Refill,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+418,48,Male,IL,Diabetes Management,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+419,53,Male,MI,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+420,74,Male,MN,Skin Rash,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+421,35,Female,IN,Skin Rash,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+422,50,Male,ND,Mental Health,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+423,31,Male,NE,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+424,63,Male,MN,Sports Injury,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+425,52,Female,IN,Surgical Consult,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+426,36,Male,SD,GI Complaint,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+427,43,Male,OH,Ear Infection,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+428,65,Male,MN,GI Complaint,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+429,67,Other,OH,Neurology Referral,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+430,42,Male,SD,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+431,49,Male,IN,Fracture Evaluation,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+432,57,Male,ND,Urinary Issue,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+433,64,Female,IN,Fracture Evaluation,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+434,35,Female,IL,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+435,49,Male,WI,Annual Physical,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+436,59,Female,MI,Fracture Evaluation,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE
+437,55,Male,OH,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+438,69,Female,OH,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+439,35,Male,MN,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+440,63,Female,WI,Physical Therapy,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+441,75,Female,ND,Checkup,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+442,40,Male,NE,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+443,60,Female,OH,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+444,46,Other,NE,Medication Refill,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+445,48,Male,OH,Mental Health,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+446,27,Female,IN,Sports Injury,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+447,49,Female,IN,Urinary Issue,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+448,49,Male,IL,Physical Therapy,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+449,66,Female,MI,Physical Therapy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+450,60,Male,IN,Physical Therapy,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+451,77,Female,ND,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+452,67,Male,MI,Ear Infection,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+453,49,Male,ND,Mental Health,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+454,47,Female,IN,Skin Rash,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+455,56,Male,SD,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+456,30,Male,IL,Follow-up Visit,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+457,82,Male,WI,Medication Refill,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+458,79,Female,IL,Urinary Issue,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+459,60,Male,WI,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+460,40,Female,NE,Physical Therapy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+461,38,Other,OH,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+462,50,Other,IL,Ear Infection,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+463,61,Male,IN,Cardiology Consult,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+464,55,Male,MI,Back Pain,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+465,30,Male,IA,Physical Therapy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+466,41,Female,NE,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+467,54,Male,MI,Fracture Evaluation,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+468,60,Female,IL,Mental Health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+469,58,Female,NE,Ear Infection,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+470,60,Male,ND,Back Pain,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+471,37,Male,WI,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+472,52,Male,IA,Back Pain,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+473,53,Male,MI,Checkup,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+474,48,Male,IL,Skin Rash,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+475,68,Female,IN,Fracture Evaluation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+476,53,Male,MN,Follow-up Visit,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+477,47,Male,WI,Checkup,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+478,45,Female,WI,Diabetes Management,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+479,35,Male,MI,Follow-up Visit,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+480,64,Female,MI,Neurology Referral,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+481,35,Female,IN,Follow-up Visit,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE
+482,33,Male,MI,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+483,10,Female,MN,Sports Injury,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+484,42,Male,IL,Fracture Evaluation,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+485,61,Female,MN,Urinary Issue,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+486,71,Male,IL,Checkup,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+487,39,Female,MI,Skin Rash,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+488,57,Male,ND,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+489,57,Female,IL,Follow-up Visit,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+490,42,Male,IL,Cough/Fever,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+491,38,Female,IA,Sports Injury,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE
+492,65,Female,IN,Urinary Issue,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+493,46,Female,SD,Prenatal Visit,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+494,52,Female,OH,Ear Infection,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+495,38,Male,SD,Neurology Referral,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+496,71,Male,IL,Follow-up Visit,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+497,42,Female,SD,Surgical Consult,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+498,49,Female,MN,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+499,74,Male,IN,Medication Refill,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+500,39,Male,IA,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+501,45,Male,SD,Neurology Referral,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+502,62,Male,IN,Prenatal Visit,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+503,58,Male,IL,Back Pain,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+504,58,Female,OH,Sports Injury,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+505,40,Other,IN,Cardiology Consult,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+506,42,Female,MI,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+507,56,Other,MI,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+508,63,Female,IN,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+509,23,Male,IN,Ear Infection,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+510,53,Female,MN,Fracture Evaluation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+511,63,Female,OH,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+512,80,Female,MN,Chest Pain,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+513,64,Male,IL,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+514,64,Female,NE,Physical Therapy,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+515,28,Male,MN,Fracture Evaluation,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+516,40,Female,IL,Fracture Evaluation,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+517,32,Female,WI,Mental Health,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+518,36,Female,OH,Surgical Consult,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+519,48,Male,OH,Physical Therapy,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+520,48,Other,IL,Annual Physical,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+521,19,Female,IL,Back Pain,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+522,32,Male,IA,Follow-up Visit,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+523,25,Male,MI,Checkup,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+524,37,Male,MI,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+525,43,Male,IN,Surgical Consult,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+526,61,Male,WI,Medication Refill,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+527,29,Male,MI,Checkup,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+528,55,Other,OH,Chest Pain,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+529,16,Female,IL,GI Complaint,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+530,41,Female,OH,Mental Health,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+531,53,Female,MN,Cough/Fever,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+532,61,Male,MI,Physical Therapy,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+533,19,Other,IN,Chest Pain,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+534,57,Female,MI,Skin Rash,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+535,49,Female,MN,Surgical Consult,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+536,41,Female,IN,Cough/Fever,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+537,43,Female,WI,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+538,41,Female,MN,Sports Injury,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE
+539,27,Male,WI,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+540,56,Female,OH,GI Complaint,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+541,43,Female,NE,Ear Infection,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+542,67,Male,OH,Neurology Referral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+543,49,Male,MI,Sports Injury,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+544,56,Female,WI,Mental Health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+545,54,Female,IN,Fracture Evaluation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+546,78,Female,IL,Back Pain,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+547,38,Male,MN,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+548,34,Female,MI,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+549,68,Female,IL,Surgical Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+550,72,Female,MN,Follow-up Visit,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+551,64,Female,MN,Physical Therapy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+552,65,Male,IL,GI Complaint,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+553,46,Male,MI,Checkup,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+554,38,Male,IL,Urinary Issue,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+555,61,Female,IL,Follow-up Visit,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+556,41,Male,OH,GI Complaint,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+557,67,Female,IL,Chest Pain,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+558,58,Male,IA,Physical Therapy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+559,61,Male,WI,Physical Therapy,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+560,63,Female,NE,Sports Injury,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+561,25,Male,MN,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+562,48,Female,MI,Cough/Fever,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+563,47,Other,WI,Physical Therapy,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+564,38,Male,IA,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+565,30,Female,IA,Surgical Consult,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+566,33,Female,ND,Follow-up Visit,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+567,42,Female,MI,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+568,36,Male,IN,GI Complaint,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+569,41,Male,WI,GI Complaint,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+570,33,Female,MI,Cough/Fever,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+571,36,Male,MI,Annual Physical,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+572,74,Male,IA,Fracture Evaluation,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+573,23,Male,NE,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+574,37,Female,SD,Follow-up Visit,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+575,37,Female,NE,Physical Therapy,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+576,31,Male,SD,Fracture Evaluation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+577,75,Female,IA,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+578,43,Other,MI,Medication Refill,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+579,50,Male,IL,Mental Health,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+580,50,Male,IN,Fracture Evaluation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+581,47,Female,OH,Prenatal Visit,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+582,46,Male,OH,Surgical Consult,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+583,43,Male,SD,Urinary Issue,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+584,31,Female,WI,Follow-up Visit,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+585,61,Female,IA,Annual Physical,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+586,58,Male,OH,Neurology Referral,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+587,69,Male,IL,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+588,53,Female,OH,Medication Refill,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+589,47,Female,IN,Back Pain,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+590,54,Other,MI,Sports Injury,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+591,55,Male,MN,Mental Health,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+592,45,Male,MN,Mental Health,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+593,58,Other,MN,Surgical Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+594,51,Other,MN,Ear Infection,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+595,64,Female,MI,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+596,50,Male,MN,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+597,54,Female,IL,Ear Infection,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+598,43,Male,IL,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+599,50,Male,IN,Cardiology Consult,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+600,43,Male,MN,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+601,51,Male,MN,Medication Refill,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+602,32,Female,WI,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+603,77,Male,WI,Mental Health,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+604,70,Male,IN,Physical Therapy,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+605,59,Male,IL,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+606,58,Female,OH,Fracture Evaluation,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+607,59,Female,IL,Cardiology Consult,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+608,43,Female,WI,Cough/Fever,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+609,39,Male,IN,GI Complaint,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+610,43,Female,IN,Follow-up Visit,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+611,27,Other,IN,Cough/Fever,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+612,49,Male,OH,Skin Rash,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+613,35,Male,MI,Follow-up Visit,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+614,46,Male,MI,Ear Infection,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+615,57,Male,WI,Surgical Consult,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+616,69,Male,OH,Chest Pain,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+617,41,Female,IA,Fracture Evaluation,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+618,61,Male,MI,Skin Rash,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+619,45,Female,IL,Neurology Referral,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+620,77,Female,ND,Diabetes Management,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+621,39,Male,MI,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+622,65,Male,IN,Surgical Consult,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+623,53,Female,MI,Chest Pain,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+624,72,Male,WI,Cough/Fever,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+625,39,Male,MN,Fracture Evaluation,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+626,61,Female,IL,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+627,59,Male,NE,Mental Health,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+628,67,Female,IN,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+629,51,Male,IA,Annual Physical,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+630,72,Female,MN,Cardiology Consult,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+631,45,Female,IA,Surgical Consult,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+632,53,Male,IN,Urinary Issue,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+633,51,Female,NE,Ear Infection,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+634,37,Female,MI,Back Pain,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+635,60,Female,WI,Surgical Consult,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+636,31,Female,IN,Surgical Consult,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+637,46,Other,OH,Fracture Evaluation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+638,58,Female,IL,Annual Physical,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+639,55,Female,IA,Chest Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+640,78,Female,OH,Sports Injury,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+641,31,Female,IL,GI Complaint,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE
+642,48,Male,OH,Skin Rash,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+643,40,Male,IN,Urinary Issue,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+644,51,Female,IN,Skin Rash,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+645,51,Female,WI,Annual Physical,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+646,49,Female,WI,GI Complaint,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+647,46,Other,IL,Medication Refill,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+648,67,Female,WI,Physical Therapy,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+649,56,Male,IL,Urinary Issue,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+650,71,Male,IN,Cardiology Consult,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+651,44,Male,WI,Prenatal Visit,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+652,58,Female,MN,Urinary Issue,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+653,58,Female,ND,Chest Pain,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+654,42,Female,SD,Back Pain,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+655,10,Male,MN,Prenatal Visit,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+656,43,Female,SD,Ear Infection,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+657,54,Male,WI,GI Complaint,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+658,66,Female,OH,Mental Health,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+659,26,Female,IN,Urinary Issue,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+660,29,Female,IN,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+661,43,Female,IL,Surgical Consult,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+662,58,Other,ND,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+663,38,Female,MI,Back Pain,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+664,68,Female,IL,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+665,37,Male,OH,Skin Rash,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+666,70,Female,IN,Cough/Fever,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+667,50,Male,OH,Checkup,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+668,40,Female,IN,Fracture Evaluation,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+669,64,Female,OH,Checkup,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+670,45,Male,WI,Follow-up Visit,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE
+671,41,Female,IA,Chest Pain,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+672,35,Male,OH,Ear Infection,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE
+673,40,Other,MN,Medication Refill,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+674,64,Male,WI,Cough/Fever,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+675,84,Female,OH,Medication Refill,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+676,58,Male,MI,Skin Rash,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+677,53,Female,IN,Ear Infection,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+678,57,Male,OH,Physical Therapy,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+679,53,Male,OH,Diabetes Management,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+680,63,Male,SD,Chest Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+681,28,Female,OH,Neurology Referral,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+682,46,Male,MN,Surgical Consult,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE
+683,52,Female,IN,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+684,24,Male,MN,Annual Physical,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+685,39,Male,IA,Fracture Evaluation,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+686,95,Male,MN,Sports Injury,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+687,35,Female,OH,Checkup,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+688,47,Female,IA,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+689,61,Male,OH,Cough/Fever,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+690,37,Female,IL,Mental Health,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+691,46,Male,IA,Chest Pain,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+692,41,Male,MI,Cough/Fever,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+693,31,Male,IN,Cough/Fever,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+694,50,Male,IL,Chest Pain,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+695,58,Male,WI,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+696,35,Female,MI,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+697,54,Female,OH,GI Complaint,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+698,54,Male,MN,Physical Therapy,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+699,57,Male,NE,Fracture Evaluation,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+700,54,Female,OH,Neurology Referral,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+701,57,Male,MN,Cough/Fever,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+702,51,Female,OH,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+703,61,Male,OH,Sports Injury,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+704,47,Male,MI,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+705,75,Male,WI,Cardiology Consult,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+706,61,Male,MN,Medication Refill,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+707,49,Female,WI,Neurology Referral,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+708,10,Female,IL,Surgical Consult,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+709,43,Male,MN,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+710,59,Female,IL,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+711,36,Male,MN,Annual Physical,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+712,31,Female,IL,Surgical Consult,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+713,39,Female,MN,Fracture Evaluation,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+714,48,Female,ND,Prenatal Visit,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+715,59,Female,MI,Back Pain,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+716,36,Male,IN,Annual Physical,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+717,41,Female,WI,Physical Therapy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+718,63,Male,MI,GI Complaint,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+719,39,Male,MN,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+720,69,Male,IN,Cardiology Consult,TRUE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE
+721,77,Female,IL,Physical Therapy,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+722,48,Female,OH,Skin Rash,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+723,65,Female,MI,Sports Injury,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+724,56,Male,MI,Chest Pain,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+725,25,Male,MN,Sports Injury,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+726,62,Male,IN,Fracture Evaluation,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+727,54,Female,MI,Checkup,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+728,11,Male,MN,Diabetes Management,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+729,36,Male,MI,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+730,61,Female,MI,Diabetes Management,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+731,41,Female,SD,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+732,51,Female,MI,Neurology Referral,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+733,59,Female,MI,Cough/Fever,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+734,59,Female,MI,Follow-up Visit,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+735,49,Male,IL,Surgical Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+736,41,Female,IN,Checkup,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+737,59,Female,ND,Urinary Issue,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+738,52,Male,IL,Prenatal Visit,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+739,74,Female,WI,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+740,62,Female,ND,Annual Physical,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+741,59,Female,SD,Mental Health,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+742,52,Female,WI,Prenatal Visit,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+743,54,Female,OH,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+744,39,Female,IA,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+745,50,Male,OH,Ear Infection,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+746,36,Female,WI,Chest Pain,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+747,25,Male,MN,Chest Pain,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE
+748,55,Male,OH,Fracture Evaluation,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+749,33,Male,WI,Ear Infection,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+750,56,Other,IA,Chest Pain,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+751,76,Female,MN,Ear Infection,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+752,55,Female,IA,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+753,55,Female,WI,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+754,57,Male,MN,Skin Rash,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE
+755,52,Female,NE,Neurology Referral,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+756,69,Female,MN,Chest Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+757,67,Female,IL,Skin Rash,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+758,43,Male,OH,Skin Rash,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+759,42,Male,MN,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+760,30,Female,IN,Annual Physical,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+761,49,Other,IL,Fracture Evaluation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+762,43,Male,MN,Back Pain,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+763,60,Male,NE,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+764,73,Female,IA,Chest Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+765,34,Female,MI,Sports Injury,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+766,44,Male,NE,Urinary Issue,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+767,50,Male,IL,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+768,38,Female,IL,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+769,63,Female,IL,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+770,43,Female,OH,Urinary Issue,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+771,53,Male,IA,Mental Health,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+772,25,Other,OH,Neurology Referral,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+773,58,Female,ND,Ear Infection,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+774,58,Female,NE,Diabetes Management,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+775,51,Male,IL,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+776,80,Male,OH,Physical Therapy,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE
+777,48,Female,MN,Fracture Evaluation,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+778,53,Other,MI,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+779,23,Male,WI,Urinary Issue,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+780,68,Female,WI,Checkup,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+781,58,Female,IN,Surgical Consult,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+782,41,Female,MN,Skin Rash,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+783,75,Male,MI,Annual Physical,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+784,63,Female,IN,Ear Infection,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+785,40,Female,OH,Fracture Evaluation,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+786,33,Male,SD,Ear Infection,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+787,42,Female,NE,Neurology Referral,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+788,62,Female,IL,Medication Refill,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+789,50,Male,OH,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+790,48,Female,SD,GI Complaint,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+791,84,Male,IN,Checkup,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+792,36,Male,IN,Fracture Evaluation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+793,54,Other,MI,Fracture Evaluation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+794,68,Male,ND,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+795,35,Male,MN,Neurology Referral,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+796,67,Female,NE,Checkup,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+797,49,Female,MN,Surgical Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+798,38,Male,IA,Urinary Issue,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+799,65,Female,OH,Chest Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+800,47,Female,WI,GI Complaint,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+801,70,Male,MI,Neurology Referral,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+802,41,Female,IA,Urinary Issue,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+803,27,Female,MI,GI Complaint,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+804,26,Male,OH,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+805,17,Male,IL,Neurology Referral,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+806,40,Male,WI,Skin Rash,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+807,28,Male,MN,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+808,39,Male,IL,Medication Refill,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+809,42,Female,MN,Cardiology Consult,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+810,57,Female,SD,Diabetes Management,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+811,57,Female,MI,Neurology Referral,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE
+812,67,Male,NE,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+813,60,Female,MI,Sports Injury,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+814,44,Male,WI,Annual Physical,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+815,42,Male,IN,Annual Physical,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+816,62,Female,IL,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+817,47,Female,MN,Fracture Evaluation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+818,56,Male,IN,Checkup,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+819,56,Female,WI,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+820,47,Female,MN,Surgical Consult,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+821,48,Other,IA,Ear Infection,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+822,42,Female,NE,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+823,39,Male,MN,Cough/Fever,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+824,72,Female,MN,Chest Pain,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+825,28,Male,OH,Checkup,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+826,40,Female,ND,Medication Refill,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+827,62,Female,IL,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+828,47,Female,OH,Prenatal Visit,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+829,51,Female,IL,Cardiology Consult,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+830,38,Male,IL,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+831,50,Male,WI,Physical Therapy,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+832,45,Female,IN,Physical Therapy,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+833,51,Female,MN,Sports Injury,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+834,58,Female,IA,Urinary Issue,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+835,53,Female,WI,Urinary Issue,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+836,57,Other,OH,Surgical Consult,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+837,59,Female,MN,Prenatal Visit,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+838,58,Female,OH,Ear Infection,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+839,56,Female,IN,Annual Physical,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+840,53,Female,IL,Diabetes Management,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+841,67,Female,IN,GI Complaint,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+842,68,Female,IA,Follow-up Visit,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+843,24,Male,MI,Checkup,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+844,56,Male,OH,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+845,44,Male,OH,Annual Physical,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+846,38,Female,MN,Skin Rash,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+847,63,Female,IA,Fracture Evaluation,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+848,45,Female,OH,Checkup,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+849,45,Female,OH,Cough/Fever,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+850,55,Female,IN,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+851,33,Male,IN,Cough/Fever,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+852,44,Female,OH,Chest Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+853,63,Male,IA,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+854,53,Other,MI,GI Complaint,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+855,36,Female,MN,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+856,43,Female,IA,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+857,23,Female,IN,Fracture Evaluation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+858,32,Male,OH,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+859,72,Female,OH,Fracture Evaluation,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+860,52,Female,MI,Sports Injury,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE
+861,82,Female,IA,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+862,38,Female,IL,Physical Therapy,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+863,36,Male,IA,Back Pain,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+864,56,Male,MN,Fracture Evaluation,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+865,42,Male,ND,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+866,62,Female,MN,GI Complaint,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+867,59,Male,WI,Sports Injury,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+868,53,Female,OH,Cough/Fever,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+869,34,Male,SD,GI Complaint,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+870,41,Female,MI,Follow-up Visit,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+871,51,Male,IL,Medication Refill,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+872,34,Other,WI,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+873,43,Female,NE,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+874,66,Male,ND,Physical Therapy,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+875,67,Male,NE,Cardiology Consult,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+876,40,Male,OH,Surgical Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+877,50,Other,NE,Fracture Evaluation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+878,43,Other,IL,Follow-up Visit,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+879,54,Male,MN,Follow-up Visit,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+880,34,Male,WI,Checkup,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+881,26,Male,IN,Urinary Issue,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+882,46,Male,MN,Fracture Evaluation,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+883,45,Female,OH,GI Complaint,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+884,62,Male,SD,Checkup,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+885,55,Female,IL,Urinary Issue,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+886,43,Male,MI,Medication Refill,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+887,74,Female,IL,Urinary Issue,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+888,63,Male,IL,Cough/Fever,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+889,54,Male,NE,Medication Refill,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+890,45,Male,NE,Sports Injury,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE
+891,60,Male,OH,Fracture Evaluation,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+892,42,Male,IL,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+893,60,Female,IL,Urinary Issue,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+894,63,Male,WI,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+895,58,Female,IN,Skin Rash,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+896,57,Female,IL,Skin Rash,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+897,35,Male,MN,Chest Pain,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+898,33,Male,MI,Chest Pain,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+899,24,Female,SD,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+900,20,Female,OH,Prenatal Visit,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+901,58,Male,OH,Urinary Issue,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+902,36,Female,IL,Skin Rash,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+903,43,Female,MI,Sports Injury,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+904,58,Male,WI,Ear Infection,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+905,56,Male,WI,Cardiology Consult,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+906,59,Female,MI,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+907,57,Male,MI,Fracture Evaluation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+908,51,Male,MN,Sports Injury,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+909,44,Female,OH,Chest Pain,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+910,48,Female,ND,Sports Injury,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+911,41,Female,WI,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+912,61,Female,WI,GI Complaint,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+913,37,Female,ND,Cough/Fever,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+914,86,Male,MI,Follow-up Visit,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE
+915,57,Other,IL,Physical Therapy,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE
+916,59,Male,MN,Medication Refill,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+917,66,Female,OH,Medication Refill,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+918,67,Female,IL,Ear Infection,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+919,23,Female,IN,Surgical Consult,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+920,39,Male,MI,Urinary Issue,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+921,48,Female,NE,Sports Injury,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+922,19,Male,IA,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+923,63,Male,WI,Surgical Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+924,53,Other,SD,Diabetes Management,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+925,41,Male,MI,Cough/Fever,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+926,66,Male,MN,Back Pain,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+927,75,Male,IL,Annual Physical,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+928,78,Male,MI,Cough/Fever,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE
+929,36,Male,IL,Skin Rash,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+930,62,Female,IN,Fracture Evaluation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+931,63,Male,IL,Follow-up Visit,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+932,52,Male,OH,Skin Rash,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+933,33,Male,MN,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+934,66,Female,IA,Medication Refill,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+935,39,Female,MN,Checkup,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+936,81,Male,ND,Physical Therapy,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+937,48,Female,IN,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+938,47,Male,OH,Back Pain,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE
+939,56,Male,NE,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+940,33,Female,OH,Urinary Issue,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+941,56,Male,WI,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+942,59,Male,MI,Physical Therapy,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+943,39,Female,WI,Cough/Fever,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE
+944,60,Male,MN,Annual Physical,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+945,56,Male,MN,GI Complaint,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+946,38,Male,NE,Surgical Consult,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+947,42,Male,NE,Physical Therapy,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE
+948,68,Male,WI,Cough/Fever,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+949,60,Female,IN,Ear Infection,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+950,61,Female,MI,Diabetes Management,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+951,45,Male,NE,Physical Therapy,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+952,10,Male,WI,Neurology Referral,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE
+953,35,Male,IA,Physical Therapy,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+954,51,Male,MN,Annual Physical,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+955,65,Male,WI,Neurology Referral,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+956,28,Female,WI,Skin Rash,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+957,43,Female,WI,Skin Rash,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+958,45,Female,IA,Sports Injury,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+959,74,Male,IL,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+960,23,Female,WI,Ear Infection,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+961,46,Female,IN,Urinary Issue,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+962,42,Male,WI,Urinary Issue,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+963,62,Female,IN,Sports Injury,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE
+964,27,Male,IN,Chest Pain,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE
+965,34,Female,IN,Sports Injury,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+966,47,Female,IA,Surgical Consult,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+967,35,Female,OH,Cardiology Consult,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+968,65,Female,IA,Checkup,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+969,27,Male,MI,Mental Health,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE
+970,54,Female,MN,Cardiology Consult,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+971,26,Male,OH,Annual Physical,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+972,43,Female,IA,Back Pain,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+973,21,Male,WI,Annual Physical,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+974,38,Male,NE,Surgical Consult,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+975,40,Female,IL,Diabetes Management,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+976,69,Male,ND,Checkup,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+977,44,Male,MI,Checkup,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+978,42,Female,IN,Diabetes Management,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+979,38,Female,IA,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+980,58,Other,IN,Fracture Evaluation,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+981,38,Female,SD,Skin Rash,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+982,36,Male,WI,Cough/Fever,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE
+983,66,Female,IL,GI Complaint,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE
+984,56,Male,IL,Fracture Evaluation,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE
+985,41,Female,IN,Prenatal Visit,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE
+986,63,Female,IL,Skin Rash,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+987,45,Male,MI,Prenatal Visit,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+988,47,Male,MN,Physical Therapy,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+989,59,Female,MI,Mental Health,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE
+990,58,Male,MI,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
+991,66,Female,OH,Ear Infection,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+992,10,Female,WI,Cough/Fever,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE
+993,61,Male,OH,Ear Infection,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+994,52,Other,IL,Chest Pain,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE
+995,24,Male,MN,Checkup,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE
+996,64,Female,IL,Back Pain,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+997,54,Male,IN,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE
+998,47,Female,SD,Skin Rash,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+999,27,Female,ND,Medication Refill,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE
+1000,57,Female,IL,Mental Health,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE
