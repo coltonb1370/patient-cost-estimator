@@ -33,7 +33,7 @@ with st.expander("ℹ️ About This Model"):
     - **RMSE (Root Mean Squared Error):** $55.12
     - **R² Score:** 0.9514
 
-    These metrics indicate the model is highly accurate, with predictions on average within $31 of actual values.
+    These metrics indicate the model is highly accurate, with predictions on average within $36.88 of actual values.
     """)
 
 # Sidebar: Patient Demographics
@@ -85,20 +85,20 @@ input_data.to_csv(log_path, mode="a", header=not os.path.exists(log_path), index
 
 # SHAP Explanation Section 
 with st.expander("📊 Cost Drivers Explanation (SHAP)"):
-    st.markdown("This plot shows how the top 10 features influence cost predictions.")
+    st.markdown("This plot shows the top features influencing cost predictions.")
 
     try:
         # Display SHAP summary image
         st.image("shap_summary_cleaned.png", caption="Top Cost Drivers (Cleaned Names)", use_column_width=True)
 
         # Add explanation of top drivers (you can hardcode or parse from the plot code if needed)
-        st.markdown("**🧠 Top Cost Drivers:**")
+        st.markdown("**🧠 Top Cost Raising Features:**")
         st.markdown("""
-        - **Imaging Required** with average SHAP impact of `92.29`  
-        - **Lab Work Required** with average SHAP impact of `53.74`  
-        - **Visit: Surgical Consult** with average SHAP impact of `39.45`  
-        - **Visit: Neurology Referral** with average SHAP impact of `31.85`  
-        - **Visit: GI Complaint** with average SHAP impact of `30.86`
+	- **Visit: Surgical Consult** with average SHAP impact of `140.09`
+	- **Visit: Neurology Referral** with average SHAP impact of `96.05` 
+        - **Imaging Required** with average SHAP impact of `93.65`  
+	- **Visit: Cardiology Consult** with average SHAP impact of `80.63`
+        - **Lab Work Required** with average SHAP impact of `62.90`   
         """)
     except Exception as e:
         st.warning(f"SHAP explanation could not be displayed: {e}")
