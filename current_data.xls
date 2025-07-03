@@ -279,3 +279,9 @@ age,gender,patient_zip,hospital_name,hospital_zip,hospital_state,reason_for_visi
 30,Male,ND,Generic Midwest Hospital,Chest Pain,False,False,False,False,False,False,False
 30,Male,ND,Generic Midwest Hospital,Chest Pain,False,True,False,False,False,False,False
 30,Male,ND,Generic Midwest Hospital,Chest Pain,False,True,False,True,False,False,False
+50,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+17,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+76,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+89,Male,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+89,Female,MN,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False
+89,Female,ND,Generic Midwest Hospital,Checkup,False,False,False,False,False,False,False

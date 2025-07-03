@@ -29,9 +29,9 @@ with st.expander("ℹ️ About This Model"):
     The model considers patient demographics, comorbidities, and visit-specific details like reason for visit and whether imaging or labs were required.
 
     **Model Performance Metrics:**
-    - **MAE (Mean Absolute Error):** $31.15
-    - **RMSE (Root Mean Squared Error):** $47.35
-    - **R² Score:** 0.957
+    - **MAE (Mean Absolute Error):** $36.88
+    - **RMSE (Root Mean Squared Error):** $55.12
+    - **R² Score:** 0.9514
 
     These metrics indicate the model is highly accurate, with predictions on average within $31 of actual values.
     """)
