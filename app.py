@@ -93,13 +93,13 @@ with st.expander("📊 Cost Drivers Explanation (SHAP)"):
 
         # Add explanation of top drivers 
 	st.markdown("**🧠 Top Cost Raising Features:**")
-st.markdown("""
-- **Visit: Surgical Consult** with average SHAP impact of `140.09`
-- **Visit: Neurology Referral** with average SHAP impact of `96.05`
-- **Imaging Required** with average SHAP impact of `93.65`
-- **Visit: Cardiology Consult** with average SHAP impact of `80.63`
-- **Lab Work Required** with average SHAP impact of `62.90`
-""")
+	st.markdown("""
+	- **Visit: Surgical Consult** with average SHAP impact of `140.09`
+	- **Visit: Neurology Referral** with average SHAP impact of `96.05`
+	- **Imaging Required** with average SHAP impact of `93.65`
+	- **Visit: Cardiology Consult** with average SHAP impact of `80.63`
+	- **Lab Work Required** with average SHAP impact of `62.90`
+	""")
     except Exception as e:
         st.warning(f"SHAP explanation could not be displayed: {e}")
 
