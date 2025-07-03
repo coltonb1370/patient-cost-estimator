@@ -182,7 +182,7 @@ if st.button("Submit Feedback"):
     except Exception as e:
         st.error(f"❌ Failed to log feedback: {e}")
 
- # Place this at the root level of your script, not inside any if/else block
+ # Adding feedback viewing button
 if st.sidebar.checkbox("📥 Show Feedback Log"):
     if os.path.exists("user_feedback_log.csv"):
         df_feedback = pd.read_csv("user_feedback_log.csv")
