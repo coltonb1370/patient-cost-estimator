@@ -92,7 +92,7 @@ with st.expander("📊 Cost Drivers Explanation (SHAP)"):
         st.image("shap_summary_cleaned.png", caption="Top Cost Drivers (Cleaned Names)", use_column_width=True)
 
         # Add explanation of top drivers 
-       st.markdown("**🧠 Top Cost Raising Features:**")
+	st.markdown("**🧠 Top Cost Raising Features:**")
 	st.markdown("""
 	- **Visit: Surgical Consult** with average SHAP impact of `140.09`
 	- **Visit: Neurology Referral** with average SHAP impact of `96.05`
