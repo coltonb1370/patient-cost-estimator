@@ -31,9 +31,9 @@ with st.expander("ℹ️ About This Model"):
     **Model Performance Metrics:**
     - **MAE (Mean Absolute Error):** $36.88
     - **RMSE (Root Mean Squared Error):** $55.12
-    - **R² Score:** 0.9514
+    - **R² Score:** 0.951
 
-    These metrics indicate the model is highly accurate, with predictions on average within $31 of actual values.
+    These metrics indicate the model is highly accurate, with predictions on average within $36.88 of actual values.
     """)
 
 # Sidebar: Patient Demographics
